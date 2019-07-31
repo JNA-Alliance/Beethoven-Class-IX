@@ -1,0 +1,186 @@
+1. **Eropa**
+	- **Timur**
+		- **Negara Berkembang**
+			- Ukraina
+			- Moldova
+			- Polandia
+			- Romania
+	- **Tenggara**
+    	- **Negara Berkembang**
+        	- Kosovo
+	- **Utara**
+		- **Negara Maju**
+			- Swedia
+			- Britania Raya (Inggris)
+			- Islandia
+		- **Negara Berkembang**
+			- Latvia
+			- Lithuania
+	- **Selatan**
+		- **Negara Maju**
+			- Portugal
+			- Spanyol
+			- Andorra
+		- **Negara Berkembang**
+			- Kroasia
+			- Makedonia
+			- Montenegro
+			- Serbia
+	- **Barat**
+		- **Negara Maju**
+			- Belanda
+			- Liechtenstein
+		- **Negara Berkembang**
+	- **Tengah**
+    	- **Negara Maju**
+        	- Hongaria
+2. **Asia**
+	- **Timur**
+		- **Negara Maju**
+			- Jepang
+			- Hong Kong
+			- Korea Selatan
+			- Taiwan
+		- **Negara Berkembang**
+			- Mongolia
+			- Cina
+	- **Tenggara**
+		- **Negara Maju**
+			- Singapura
+		- **Negara Berkembang**
+			- Indonesia
+			- Brunei Darussalam
+			- Kamboja
+			- Fiji
+	- **Selatan**
+		- **Negara Berkembang**
+			- Afghanistan
+			- Bangladesh
+			- Bhutan
+			- India
+	- **Barat**
+		- **Negara Maju**
+			- Israel
+		- **Negara Berkembang**
+			- Armenia
+	- **Tengah**
+		- **Negara Berkembang**
+			- Kazakhstan
+			- Kirgizstan
+			- Tajikistan
+			- Turkmenistan
+			- Uzbekistan
+1. **Amerika Utara**
+	- **Amerika Utara**
+		- **Negara Maju**
+    		- Kanada
+    		- Amerika Serikat
+	- **Karibia**
+		- **Negara Berkembang**
+    		- Antigua dan Barbuda
+    		- Bahamas
+    		- Barbados
+    		- Dominika
+    		- Republik Dominika
+    		- Grenada
+	- **Amerika Tengah**
+		- **Negara Berkembang**
+    		- Belize
+    		- Kosta Rika
+    		- El Salvador
+    		- Guatemala
+2. **Amerika Selatan**
+    - **Negara Berkembang**
+        - Argentina
+        - Bolivia
+        - Brasil
+        - Chili
+        - Kolombia
+        - Ekuador
+        - Guyana
+3. **Afrika**
+	- **Timur**
+		- **Negara Berkembang**
+			- Djibouti
+			- Burundi
+			- Komoro
+			- Eritrea
+			- Ethiopia
+			- Kenya
+			- Madagaskar
+			- Malawi
+			- Rwanda
+			- Seychelles
+			- Tanzania
+			- Uganda
+			- Zambia
+	- **Tengah**
+		- **Negara Berkembang**
+			- Angola
+			- Kamerun
+			- Republik Afrika Tengah
+			- Chad
+			- Republik Demokratik Kongo
+			- Republik Kongo
+			- Guinea Khatulistiwa
+			- Gabon
+			- Sao Tome and Principe
+	- **Utara**
+		- **Negara Berkembang**
+			- Algeria
+			- Mesir
+			- Libya
+			- Maroko
+			- Sudan
+			- Sudan Selatan
+			- Tunisia
+	- **Selatan**
+		- **Negara Berkembang**
+			- Botswana
+			- Lesotho
+			- Namibia
+			- Afrika Selatan
+			- Swaziland
+			- Zimbabwe
+	- **Barat**
+		- **Negara Berkembang**
+			- Mauritania
+			- Benin
+			- Burkina Faso
+			- Gambia
+			- Ghana
+			- Guinea-Bissau
+			- Liberia
+			- Mali
+			- Niger
+			- Nigeria
+			- Senegal
+			- Sierra Leone
+			- Togo
+4. **Australia dan Oseania**
+	- **Australia dan Selandia Baru**
+		- **Negara Maju**
+    		- Australia
+    		- Selandia Baru
+	- **Melanesia**
+		- **Negara Berkembang**
+    		- Fiji
+    		- Solomon
+    		- Vanuatu
+	- **Mikronesia**
+		- **Negara Berkembang**
+    		- Kiribati
+    		- Kepulauan Marshall
+    		- Federasi Mikronesia
+    		- Nauru
+    		- Palau
+	- **Polinesia**
+		- **Negara Berkembang**
+    		- Samoa
+    		- Tonga
+    		- Tuvalu
+5. **Antartika**
+	- ._.
+
+Disusun oleh **Jason N.**
+Sumber: ilmugeografi.com, ilmupengetahuanumum.com, Wikipedia.
