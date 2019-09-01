@@ -45,11 +45,11 @@
 1. 鹅大哥 = **É Dà Gē** = Kakak Angsa
 
 **Lengkapi Kalimat**
-**牙刷**手中[#] (Ya Shuo Shou Zhong Ma)
-顺着**齿缝刷** (Shun Zi Chi Feng Shuo)
-[#]外**全干净** (Mei Wai Quan Gan Jing)
-阿姨**[#]我夸** (A Yi Jing Wo Kua)
-黄**靴子** (Huang Xue Zi)
-干**净** (Gan Jing)
-去**做客** (Qu Zuo Ke)
-说**再见** (Shuo Zai Jian)
+1. **牙刷**手中[#] (Ya Shuo Shou Zhong Ma)
+1. 顺着**齿缝刷** (Shun Zi Chi Feng Shuo)
+1. [#]外**全干净** (Mei Wai Quan Gan Jing)
+1. 阿姨**[#]我夸** (A Yi Jing Wo Kua)
+1. 黄**靴子** (Huang Xue Zi)
+1. 干**净** (Gan Jing)
+1. 去**做客** (Qu Zuo Ke)
+1. 说**再见** (Shuo Zai Jian)
