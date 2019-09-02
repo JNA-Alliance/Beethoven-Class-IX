@@ -1,7 +1,7 @@
 # Pengertian "Gereja"
 ---
 
-#### Asal Usul
+### Asal Usul
 **Kata Asli**
 Kata "Gereja" berasal dari bahasa Ibrani *igreja* yang merupakan terjemahan dari bahasa Junani (*ekklesia*).
 Kata Junani *ekklesia* terdiri dari:
@@ -9,7 +9,7 @@ Kata Junani *ekklesia* terdiri dari:
 *kaleo/kleia* = dipanggil
 **_ekklesia_ = dipanggil keluar**
 
-#### Terjemahan
+**Terjemahan**
 - Jerman = *kirche*
 - Belanda = *kerk*
 - Portugis = *igreja*
@@ -22,7 +22,7 @@ Kata Junani *ekklesia* terdiri dari:
 
 Jadi yang dimaksud dengan "Gereja" adalah **persekutuan orang-orang yang dipanggil keluar dari kegelapan (dosa)** dan menuju terang kasih kristus.
 
-#### Ayat Emas
+### Ayat Emas
 - **Matius 18:20**
     Sebab di mana **dua atau tiga orang berkumpul dalam Nama-Ku**, di situ Aku ada di tengah-tengah mereka.
 - **1 Petrus 2:9**
@@ -35,3 +35,39 @@ Jadi yang dimaksud dengan "Gereja" adalah **persekutuan orang-orang yang dipangg
     Karena itu, saudara-saudara, demi kemurahan Allah aku menasihatkan kamu, **supaya kamu mempersembahkan tubuhmu sebagai persembahan yang hidup, yang kudus** dan yang berkenan kepada Allah: **itu adalah ibadahmu yang sejati.**
 - **Roma 12:2**
     **Janganlah kamu menjadi serupa dengan dunia ini**, tetapi berubahlah oleh pembaharuan budimu, sehingga kamu dapat membedakan manakah kehendak Allah: apa yang baik, yang berkenan kepada Allah dan yang sempurna.
+
+### Sifat-Sifat gereja
+1. **Gereja adalah kudus (suci)**: Harus memisahkan diri dari hal-hal keduniaan.
+2. **Gereja adalah *AM* (satu)**: Hanya ada satu kepala yaitu Yesus Kristus.
+3. **Gereja adalah persekutuan**: Perkumpulan orang-orang yang percaya kepada Yesus
+4. **Gereja adalah persekutuan kemuridan**: Setiap orang-orang yang bersekutu tersebut menjadi murid-murid Yesus.
+
+### Tugas dan Tanggung Jawab Gereja (Tri Tugas Gereja)
+1. **Diakonia (Melayani/Pelayanan)**: Sebagai wujud dari pengabdiannya kepada Allah. 
+2. **Marturia (Kesaksian/Bersaksi)**: Pusat kesaksian yang memiliki tugas untuk memberitakan kabar baik bagi orang yang belum percaya kepadaNya, Memberikan fakta dan kebenaran akan adanya Allah dan Yesus.
+3. **Koinonia (Bersekutu/Persekutuan)**: Sarana persekutuan yang percaya kepada Allah dan Yesus.
+
+**Diakonia**
+- Firman Tuhan: Ibadah Minggu, Seminar, Bible Camp, KKR, Retreat, dll.
+- Sosial: Bantuan kepada korban bencana alam, pernghiburan pada yang berduka, dll.
+
+**Marturia**
+Hal yang dipersaksikan adalah hal mengenai Yesus adalah Tuhan dan Juru Selamat.
+
+### Istilah-Istilah Gereja
+1. **Tubuh Kristus**:  Gereja tidak boleh melepaskan diri dari Yesus Kristus.
+2. **Bangunan Alaah**: Gereja Harus berdasarkan Yesis Kristus sebagai batu penjuru.
+3. **Mempelai Wanita**: Gereja harus setia menantikan mempelai laki-laki yaitu Yesus Kristus untuk memasuki pernikahan kudus (kiamat).
+4. **Kawanan Domba Allah**:  Gereja harus patuh dan taat kepada gembala yaitu Yesus Kristus.
+
+### Yesus Adalah Gembala Yang Baik
+Mazmur 23, Yohanes 10 ayat 1-21
+
+**Ciri-Ciri Gembala Yang Baik**
+1. Membaringkan dombanya di padang rumput hijau.
+2. Membimbing dombanya ke air yang tenang.
+3. Menuntun dombanya ke jalan yang benar.
+4. Menyediakan hidangan bagi dombanya.
+5. Mengurapi kepala dombanya dengan minyak.
+6. Memberikan nyawanya bagi dombanya.
+7. Mengenal suara dombanya.
