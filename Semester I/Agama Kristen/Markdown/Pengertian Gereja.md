@@ -71,3 +71,35 @@ Mazmur 23, Yohanes 10 ayat 1-21
 5. Mengurapi kepala dombanya dengan minyak.
 6. Memberikan nyawanya bagi dombanya.
 7. Mengenal suara dombanya.
+
+**Cara Hidup Jemaat Pertama (Kis 2:41)**
+- Berkumpul dalam pengajaran rasuk2 dan dalam persekutuan.
+- Berkumpul untuk memecahkan roti dan berdoa.
+- Rasul2 itu mengadakan banyak Mujizat dan tanda.
+- Segala kepunyaan mereka adalah kepunyaan bersama.
+- Selalu ada yang menjual harga miliknya dan membagi-bagikannya kepada semua orang.
+- Bertekun dan dengan sehat mereka berkumpul.
+- Sambil memuji Allah.
+- Disukai semua orang.
+- Sehati dan Sewija.
+- Tidak ada yang berkata bahwa sesuatu dari kepunyaannya adalah milik sendiri.
+- Tidak ada seorangpun yang berkekurangan.
+
+### Tantangan Yang Dihadapi Gereja
+1. **Tantangan Dari Dalam Gereja (*Gereja Itu Sendiri*)**
+    - Gereja membernarkan diri sendiri (timbul perpercahan)
+    - Adanya ajaran2 yang menguatkan tentang Yesus antara lain:
+      - **Ajaran Gnostik**
+        - Alam semesta bukan ciptaan Allah tetapi illah yang lebih rendah derajatnya.
+        - Pengikutnya memiliki "hikmat" tentang asal usul manusia.
+        - Hikmat itu dapat diperoleh dengan cara ber-askese (menyiksa diri, cth: bertapa)
+        - Diwajibkan berpuasa
+      - **Ajaran Marcion**
+        - Allah dalam *P.L.* beda dengan Allah dalam *P.B.* karena Allah di *P.L.* **kejam** sedangkan di *P.B.* **baik**.
+      - **Ajaran  Montansus**
+        - Kedatangan Yesus Kristus akan segera di kota Firginia, Sebelum itu, jemaat harus bisa berbahasa Roh.
+    **Senjata Gereja**
+        - **Kanon**: Tolak ukur semua ajaran adalah Alkitab yang tertulis dari 66 kitab (PL=39, PB=27)
+        - **Credo** (Pengakuan Iman)
+        - **Jabatan USKUP**
+2. **Timbulnya penganiyaan besar-bersaran terhadap orang2 kristen dari kekaisaran Romawi.**
