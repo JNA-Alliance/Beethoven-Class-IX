@@ -1,6 +1,10 @@
 # Beethoven Class IX [PRIVATE]
 Materials for Beethoven Class grade IX class B  
 
+# Notices
+**26 September 2019**
+All members are advised to prepare materials for mid-term test starting October.
+
 # Notes
 - **Prepare for Ujian Nasional**.
 - Most papers will be written in Indonesian.
