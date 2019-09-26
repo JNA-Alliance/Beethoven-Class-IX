@@ -12,5 +12,5 @@ All members are advised to prepare materials for mid-term test starting October.
 - Add `[?]` at the end of a statement if the statement might not be true or requires citation.
 
 # JNY Alliance
-This repository is part of **JNY Alliances**  
+This repository is part of **Juliet November Yankee (JNY) Alliances**  
 <img src="https://i.ibb.co/BrHFvL4/JNY-Alliance-copy.jpg" alt="" height="400" style="max-width:100%;">
