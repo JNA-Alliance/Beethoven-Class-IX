@@ -1,0 +1,24 @@
+# Materi Ujian Mid Semester I - Sejarah
+---
+**Outline**
+- Perjanjian Versailes
+- Alliansi (Facisme dan Sekutu) beserta pemimpinnya
+- Restorasi Meiji
+- Sifat Jepang yang Tertutup pada masa, didukung oleh?
+- Gerakan 3A
+- Serangan Pearl Harbour
+- Belanda menyerah tanpa syarat di Kalijati (tangal & perjanjian)
+- Lagu kebangsaan Jepang
+- Perlawanan hokokai, seindori, dll.
+- Politik air hangat
+- Romusha
+- Usaha mempertahankan ID (Catatan)
+- Pembunuh Franz Ferdinand
+- Medan Perang Front Eropa & Front Afrika (mana ke mana, tahun)
+- Pengertian totalitarisme, dll.
+- Tokoh 4 serangkai
+- Janji Jepang kepada Indonesia
+- Ketua PPKI dan BPUPKI
+- Tugas utama pasukan sekutu (NICA) di ID
+- Pemimpin pertempuran Surabaya
+- Perjanjian Renville di ID dan Belanda
