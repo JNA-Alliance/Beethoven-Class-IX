@@ -22,3 +22,9 @@
 - Tugas utama pasukan sekutu (NICA) di ID
 - Pemimpin pertempuran Surabaya
 - Perjanjian Renville di ID dan Belanda
+- Jendral Inggris yang tewas
+- Hari pahlawan sejarah
+- Perlawanan sejarah
+- AFNEI
+- Agresi militer belanda
+- Pertempuran bandung lautan api
