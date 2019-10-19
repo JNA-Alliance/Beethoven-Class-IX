@@ -103,3 +103,13 @@ Mazmur 23, Yohanes 10 ayat 1-21
         - **Credo** (Pengakuan Iman)
         - **Jabatan USKUP**
 2. **Timbulnya penganiyaan besar-bersaran terhadap orang2 kristen dari kekaisaran Romawi.**
+
+# Pengakuan Iman
+1. Nicea: Dirumuskan di kota Nicea pada tahun 321 pada saat konsili gereja sedunia. Diresmikan di kota Chalsedan pada tahun 381.
+2. Athanasius: Seorang bapak gereja yang saleh. Dibuat untuk membentengi iman jemaatnya dari pengaruh suku bar-bar.
+3. Rasuli: Dirumuskan sesuai dengan kepercayaan para rasul. Dipakai sampai sekarang.
+
+**Pengakuan Iman Rasuli**
+Aku percaya kepada Allah, Bapa yang Mahakuasa, Khalik langit dan bumi.
+Aku percaya kepada Yesus Kristus, Anak-Nya yang Tunggal, Tuhan kita. Yang dikandung dari Roh Kudus, lahir dari anak dara Maria. Yang menderita sengsara di bawah pemerintahan Pontius Pilatus, disalibkan, mati dan dikuburkan, turun ke dalam kerajaan maut. Pada hari yang ketiga bangkit pula dari antara orang mati. Naik ke surga, duduk di sebelah kanan Allah Bapa yang Mahakuasa. Dan dari sana Ia akan datang untuk menghakimi orang yang hidup dan yang mati.
+Aku percaya kepada Roh Kudus, Gereja yang kudus dan am, persekutuan orang kudus, pengampunan dosa, kebangkitan tubuh, dan hidup yang kekal. Amin.
