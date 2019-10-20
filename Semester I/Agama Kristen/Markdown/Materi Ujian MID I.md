@@ -1,15 +1,7 @@
 # Materi Ujian Mid I - Agama Kristen
 ---
 
-**OUTLINES**
-- Semua Catatan
-- Pengakuan Iman Rasuli
-- Tantangan, Ajaran
-- Semua Latihan
-- Semua Ayat Emas
-
-# Ayat Emas
-*CETAK TERPISAH*
+**AYAT EMAS DAN CATATAN TAMBAHAN DICETAK TERPISAH.**
 
 # Gereja
 ---
