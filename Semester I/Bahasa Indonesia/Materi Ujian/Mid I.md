@@ -89,7 +89,7 @@ Sama halnya dengan sebuah berita, dialog interaktif juga mempunyai unsur–unsur
   - **Mempermudah pembaca memahami suatu kata**
   - **Mempercepat pembaca ketika ingin menemukan topik**
 - Syarat Penulisan Indeks
-  - **Halaman indeks terletak di bagian akhor buku (setelah daftar pustaka)**
+  - **Halaman indeks terletak di bagian akhir buku (setelah daftar pustaka)**
   - **Indeks disusun berdasarkan abjad dengan mengelompokkan indeks nama yang diletakan terpisah dari indeks topik**
   - **Indeks pengarang ditulis terpisah dari indeks topik. Tetapi dapat digabungkan jika tidak terlalu panjang**
   - Nama paling belakang ditaruh di **paling depan**

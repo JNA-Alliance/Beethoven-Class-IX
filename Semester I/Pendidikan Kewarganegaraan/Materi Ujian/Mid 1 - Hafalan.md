@@ -1,14 +1,14 @@
 **Fungsi Negara**
-- Menjaga keamanan dan ketertiban.
-- Mengusahakan kesejahteraan rakyat.
-- Menjamin pertahanan.
-- Menegakkan keadilan.
+• Menjaga keamanan dan ketertiban.
+• Mengusahakan kesejahteraan rakyat.
+• Menjamin pertahanan.
+• Menegakkan keadilan.
   
 **Tujuan Negara**
-- Melindungi segenap bangsa.
-- Memajukan kesejahteraan umum.
-- Mencerdaskan kehidupan bangsa.
-- Ikut melaksanan ketertiban dunia.
+• Melindungi segenap bangsa.
+• Memajukan kesejahteraan umum.
+• Mencerdaskan kehidupan bangsa.
+• Ikut melaksanan ketertiban dunia.
 
 **PROKLAMASI**
 Kami bangsa Indonesia dengan ini menjatakan kemerdekaan Indonesia.
