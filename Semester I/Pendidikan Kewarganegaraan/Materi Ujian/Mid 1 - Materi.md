@@ -140,3 +140,58 @@
   - **Politik**: Politik/Perpolitikan (Memilih dan dipilih, mendirikan org.)
 
 # Otonomi Daerah
+- Otonomi daerah adalah **hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai peraturan perundang-undangan**. (UU No. 32 tahun 2004)
+- Faktor-faktor yang mempengaruhi otonomi daerah:
+  - **Manusia Pelaksana**: Semangat kerja, moral, pengetahuan
+  - **Keuangan**: Modal
+  - **Peralatan**: Teknologi
+  - **Organisasi dan Manajemen**: Perencanaan, pelaksanaan, *leadership*
+- Landasan Hukum otonomi daerah:
+  - **UU No. 32 Tahun 2004**: Pemerintahan Daerah.
+  - **UU No. 33 Tahun 2004**: Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintah Daerah.
+- Bidang yang tidak dicakup:
+  - **Politik luar negeri**
+  - **Pertahanan keamanan**
+  - **Peradilan**
+  - **Moneter dan fiskal**
+  - **Agama**
+- Prinsip otonomi daerah:
+  - **Demokrasi**
+  - **Keadilan**
+  - **Pemerataan**
+  - **Potensi dan Keanekaragaman**
+- Prinsip Pelaksanaan otonomi daerah:
+  - **Seluas-luasnya**: Daerah dapat mengatur semua bidang kecuali yang tidak dicakup
+  - **Nyata**: Daerah memiliki kewenangan dalam menjalankan pemerintahan berdasarkan tugas, wewenang, dan kewajiban yang secara nyata telah ada
+  - **Bertanggungjawab**: Harus sesuai dengan maksud dan tujuan dari pemberian otonomi
+- Perangkat Pelaksana otonomi daerah:
+  - **Kepala Daerah Provinsi/Gubernur**
+  - **Bupati & Wakilnya**
+  - **Unit2 Teknis/Dinas**
+- Partisipasi Masyarakat, tahap:
+  - **Perencanaan**: Memberikan masukan
+  - **Pelaksanaan**: Ikut serta dalam kegiatan
+  - **Evaluasi**: Memelihara yang telah dibangun
+  
+# Kebijakan Publik
+- Kebijakan publik adalah **segala sesuatu yang dikerjakan dan tidak dikerjakan pemerintah untuk kepentingan umum**.
+- Menurut ahli, juga mencakup:
+  - **Segala sesuatu yang dikerjakan pemerintah**
+  - **Suatu program yang dibuat dengan tujuan dan nilai tertentu**
+  - **Serangkaian tindakan yang diusulkan seseorang, kelompok, atau pemerintah**
+  - **Pengaruh dari aktivitas pemerintah**
+- Tahap perumusan:
+  1. ***input*** (masukkan): Berupa tuntutan, kritikan, maupun dukungan dari masyarakat
+  2. **Rekomendasi** (usulan): Input dikelompokkan, *input* dibahas bersama pembuat kebijakan.
+  3. **Kebijakan** (*output*): Keputusan hasil pembahasan
+  4. **Penerapan** (implementasi): Kebijakan diterapkan
+  5. **Evaluasi**: Menjadi Input kembali
+- Tahap Pembuatan Kebijakan Publik:
+    Dimulai dari pembuatan Agenda Kebijakan (*agenda setting*), formulasi dan legitimasi, implementasi, evaluasi kinerja dan dampak kebijakan, serta koreksi dan pembuatan kebijakan baru.
+  1. **Pembuatan Agenda**: Mengidentifikasi masalah
+  2. **Formulasi dan Legitimnasi**: Tahap teknis, dirumuskan dan dicari pemecahan dan disahkan menjadi kebijakan
+  3. **Implementasi**: Penerapan
+  4. **Evaluasi Kebijakan**: 
+     1. **Proses (*process*)**: Bagaimana program dilaksanakan?
+     2. **Dampak (*impact*)**: Apa yang telah dicapai dari program.
+     3. **Strategi (*strategic*)**: Apakah program ini lebih efektif dari yang lain?
