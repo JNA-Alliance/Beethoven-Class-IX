@@ -3,8 +3,8 @@
 
 **OFFICIAL**
 1. Pengertian negara maju dan negara berkembang
-   - **Maju**: Negara yang sudah berhasil dalam pembangunan.
-   - **Berkembang**: Negara yang sedang giat-giatnya membangun.
+   - **Maju**: Negara yang memiliki standar hidup yang tinggi dengan pendapatan per kapita tinggi, pertumbuhan penduduk rendah, serta memiliki perekonomian yang baik.
+   - **Berkembang**: Kebaliakn dari negara maju.
 2. Ciri-ciri negara maju dan negara berkembang
     - **Negara Maju**
         - Pendapatan per kapita tinggi
@@ -82,6 +82,7 @@
 24. Luas negara Amerika Serikat: **9.834 juta km²**
 25. Siapa penemu benua Amerika: **Christopher Columbus**
 26. Negara2 maju bukan Eropa: **Amerika Serikat, Kanada, Jepang, Hong Kong, Singapura**
+27. Arti simbol-simbol pada peta:
 
 **ANTISIPASI**
 - Cek Formatif I
