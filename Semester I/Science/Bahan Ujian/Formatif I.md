@@ -50,4 +50,5 @@ It became a Zygote which then developes into an Embryo while the Ovary became th
 - The ovule becomes a seed, with the embryo plant inside it.
 - Ovaries develop into fruits after fertilisation
 - Fruits contain seeds
-- Fruits have adaptations to help the seeds inside them disperse to new places. Seed dispersal helps to avoid competition with the parent plant.
+- Fruits have adaptations to help the seeds inside them disperse to new places. 
+- Seed dispersal helps to avoid competition with the parent plant.

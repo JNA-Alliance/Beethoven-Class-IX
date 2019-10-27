@@ -1,22 +1,113 @@
 # Bahan Ujian Mid Semester I - Science
 ---
-`> [Writer@root] setlang EN`
+`> [root@writer] setlang EN`
+`> [root@writer] link "Formatif I.md"`
+`> [host@system] Compilation success! Building file..........100% OK!`
 
-**DEFINITIONS**
-- Algal bloom: A rapid growth of algae in water (lake, river, or sea), often caused by fertiliser.
-- Annual plants: Plants that germinate, grow, flower, produce seeds and die in less than a year.
-- Anthers: The male parts of flowers where pollen is made.
-- Biodiversity: The number of different species in a particular area.
-- Biological catalyst: Another term for an enzyme.
-- Carbohydrates: A group of chemicals found in living organism which includes sugar, starch, and cellulose.
-- Catalese: An enzyme found in living cells that speeds up the breakdown of hydrogen peroxide.
-- Decomposers: Organisms that break down organic matter (earthworms and fungi).
-- Dispersed: Spread over a wide area.
-- Ecology: The study of living organism in their environment.
-- Ecologist: People who study the relationship between living organisms and their environment.
-- Embryo: A very young, new organism, which has developed from a zygote.
-- Enzyme: A biological catalyst that speeds up a reaction in a living system.
-- Evaporation: The change of liquid to a gas at a temporature below its boiling point.
-- Extinct: Dissapeared from the Earth; Gone forever. RIP Harambe.
-- Fertilisation: The joining together of the male and female gamete's nucleus.
-- Fertilisers: Mineral ions that plants need for healthy growth, and are added to the soil to help crops grow better.
+## Definitions
+- Algal bloom: **A big population of algae in a lake, river or sea, often caused by fertiliser**
+- Annual plants: **Plants that germinate, grow, flower, produce seeds and die in less than a year**
+- Anthers: **The parts of a flower in which pollen is made**
+- Biodiversity: **The number of different species in a particular area**
+- Biological catalyst: **Another term for an enzyme**
+- Carbohydrates: **A group of chemicals found in living organism which includes sugar, starch, and cellulose**
+- Catalese: **An enzyme found in living cells that speeds up the breakdown of hydrogen peroxide**
+- Decomposers: **Organisms that break down organic matter (earthworms and fungi)**
+- Dispersed: **Spread over a wide area**
+- Ecology: **The study of living organism in their environment**
+- Ecologist: **People who study the relationship between living organisms and their environment**
+- Embryo: **A very young, new organism, which has developed from a zygote**
+- Enzyme: **A biological catalyst that speeds up a reaction in a living system**
+- Evaporation: **The change of liquid to a gas at a temporature below its boiling point**
+- Extinct: **Dissapeared from the Earth; Gone forever**
+- Fertilisation: **The joining together of the male and female gamete's nucleus**
+- Fertilisers: **Mineral ions that plants need for healthy growth, and are added to the soil to help crops grow better**
+- Fruit: **A structure that contains seeds; Developed from Ovaries after fertilisation and help the seed to be spread away from the parent plant**
+- Global warming: **The gradual increase of the Earth's temperature**
+- Habitat: **The place where an organism lives**
+- Hypae: **The tiny threads that made up the body of a fungus**
+- Magnesium: **A mineral salts that plants need to make chlorophyll**
+- Mineral salts: **Substances such as nitrate and magnesium, which plants absorb from the soil through their roots, and which they need for healthy growth**
+- Nectar: **A sugary substance made by flowers, which attracts insects**
+- Nitrate: **Mineral salts that plants need to make protein and chlorophyll**
+- Ovaries: **The parts of a flower that contain the ovules**
+- Ovules: **The parts of a flower that contain the female gametes**
+- Petals: **The colourful parts of a flower that help to attract insects**
+- Phytoplankton: **Microscopic plant-like organisms that float in water**
+- Pollen: **Tiny grains, produced in the anthers of a flower, which contain the male gametes**
+- Pollination: **The transfer of a pollen from an anther to a stigma**
+- Pollution: **The addition of substance to the environment thatharm living organisms**
+- Population: **The number of organisms of a particular species that are living in the same place at the same time**
+- Sampling: **Collecting data from a small part of a whole area, or from just a small number of a large individuals**
+- Seed: **A structure that contains an embryo plant, and food stores to help it to begin to grow into a new plant**
+- Starch: **A type of charbohydrate that is stored inside plant cells**
+- Stigma: **The part of a flower that receives pollen grains during pollination**
+- Zooplankton: **Microscopic animals that float in water**
+- Zygote: **The cell that is formed when a male gamete fuses with a female gamete**
+
+## Summary From The Book
+- Plants are adapted to live in their habitats
+- Plant adaptations often help them to get light for photosynthesis
+- Annual plants grow, produce seeds and die in less than a year
+- Weed is a plant that grows where people do not want it to grow (Amongs farmer crops or pavement)
+- Many weeds are annual plants and some weeds can do the process in just a few weeks
+- Examples of plant adaptations: 
+  - Spruce trees: 
+    - Leaves are thin, strong needles that have a thich waxy covering to prevent them from loosing too much water during winter.
+    - Is tall, narrow shape with downward sloping branches which let the snow slides down once too heavy.
+  - Strangler figs:
+    - Seeds germinate in a crack high up in a mature tree to get more sunlight.
+    - Roots of the strangler figs will grow down to the ground and eventually killing the host tree.
+- Animals may have structural behavioral adaptations that help them to survive in their habitats
+- Examples of animal adaptations:
+  - Arabian oryx: 
+    - Adopted to survive with very little water and will drink when they can. 
+    - Can go for months by getting water from plants they eat. 
+    - Feed at night when it is cooler because particles move slower.
+    - Will rest in shade during the day.
+  - Sealions:
+    - Hunt prey in sea water.
+    - Have smooth streamlined bodies that help them to move easily through water by reducing friction.
+    - Front and hind leg becomes flippers.
+    - Nostrils close to stop water getting into its lungs. Can hold for 1 hour.
+  - Earthworms:
+    - Have long, slim, smooth bodies that slide easily through their burrows.
+    - Have tiny bristles on their undersides called *chaetae* which can grip the sides of the burrow.
+- Ecologist study organisms in their environment
+- Ecologist often use sampling techniques. Sampling involves finding results for a small, representative part of the area you're studying.
+- When sampling, be careful to:
+  - Use a fairly large sample
+  - Place samples randomly
+- Food web shows how energy is transferred between organisms
+- Food web is made up of many interconnecting food chains
+- Food chain example:
+  - Phytoplankton -> Krill -> Fish -> Leopard Seal
+  - Phytoplankton -> Zooplankton -> Squid -> Leopard Seal
+- Decomposers are organisms that get their energy from dead organisms or their waste products
+- Decomposers help to recycle substances from dead organisms and waste, so that other living organisms can use them
+- Decomposers include Earthworms, Fungi, some Insect Larvae, and Bacteria
+- Enzyme is produced inside our digestive system to break down large molecules such as starch and preotein in our food into small ones to be absorbed into out blood
+- A population is all the organisms of one species living in the same place at the same time
+- A population increases in size if the numbe rof births per year is greater than the number of deaths per year and vice-versa
+- A decrease in food supply, increase in predators or desease can reduce the size of a population.
+- Pollution is the addition of harmful substances to the environment
+- Adding fertilisers to water can cause algal blooms
+- When algae die, bacteria feed on them, using up the oxygen that was dissolved in the water
+- Aquatic animals may die or move away because they can't get enough oxygen
+- Humans destroy the habitat of animals and plants. Reasons?
+  - Using more land to grow crops and farm animals, to provide food for more people.
+  - Building more homes and roads
+  - Cutting fown forest to provide firewood and timber for building
+  - Mining to obtain more minerals from the ground
+- Each species is adapted to live in a particular habitat. If that habitat is destoryed, the species might become extinct.
+- Wetland is a place such as swamps, marsh or bog. Some are inland and some are next to the sea. Some stay wet all year round while others dried out at some part of the year
+- Rainforest grow in tropics and also in cooler temperature regions. They have a high biodiversity.
+- Coreal reefs are built by tiny animals simmilar to sea anemones. Living together in a big colonies and make hard coverings around them. These coverings are made from calcium carbonate.
+- The coral animals have tiny algae growing inside them which can perform photosynthesis for food.
+- One of the biggest threats to coral reefs is acidification of sea water.
+- Nations all over the world are acting together to try to reduce the harm we do to the environment.
+- The *Ramsar Convention* has helped to save many wetlands
+- The has been great success in reducing CFC emissions
+- Carbon dioxide emisions is hard to reduce
+- In 1971, representatives from 21 nations met in Iran to discuss the threat to the world's wetlands. In 1975, they all signed an agreement called the *Ramsar Convention*. This listed things that they would all try to do to save the Earth's welands. By 2012, 161 nations had joined.
+- In 1989, a treaty came into force that was signed by many countries to pahse out the use of CFC.
