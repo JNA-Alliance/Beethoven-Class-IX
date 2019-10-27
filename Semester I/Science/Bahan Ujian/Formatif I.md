@@ -21,16 +21,12 @@
 - Why seed dispersal is important for plants?
 - List three ways in which fruits can help with seed dispersal.
 
-
 ## Core Concept
-Male Part: Smatens (which consist of Anthers and Filament).
-Female Part: Ovaries, Style, and Stigma.
-
-Male Gamete: Nuclei inside Pollen Grain.
-Female Gamete: Nuclei inside Ovule.
-
-When Male Gamete Fuses With Female Gamete:
-It became a Zygote which then developes into an Embryo while the Ovary became the seed.
+- Male Part: Smatens (which consist of Anthers and Filament).
+- Female Part: Ovaries, Style, and Stigma.
+- Male Gamete: Nuclei inside Pollen Grain.
+- Female Gamete: Nuclei inside Ovule.
+- When Male Gamete Fuses With Female Gamete: **It became a Zygote which then developes into an Embryo while the Ovary became the seed.**
 
 ## Summary From The Book
 - Photosynthesis is the production of Glucose and Oxygen, by reacting water and carbon dioxide, using energy from light.
