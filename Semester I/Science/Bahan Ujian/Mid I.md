@@ -18,7 +18,7 @@
 - Ecologist: **People who study the relationship between living organisms and their environment**
 - Embryo: **A very young, new organism, which has developed from a zygote**
 - Enzyme: **A biological catalyst that speeds up a reaction in a living system**
-- Evaporation: **The change of liquid to a gas at a temporature below its boiling point**
+- Evaporation: **The change of liquid to a gas at a temperature below its boiling point**
 - Extinct: **Dissapeared from the Earth; Gone forever**
 - Fertilisation: **The joining together of the male and female gamete's nucleus**
 - Fertilisers: **Mineral ions that plants need for healthy growth, and are added to the soil to help crops grow better**
@@ -36,7 +36,7 @@
 - Phytoplankton: **Microscopic plant-like organisms that float in water**
 - Pollen: **Tiny grains, produced in the anthers of a flower, which contain the male gametes**
 - Pollination: **The transfer of a pollen from an anther to a stigma**
-- Pollution: **The addition of substance to the environment thatharm living organisms**
+- Pollution: **The addition of substance to the environment that harm living organisms**
 - Population: **The number of organisms of a particular species that are living in the same place at the same time**
 - Sampling: **Collecting data from a small part of a whole area, or from just a small number of a large individuals**
 - Seed: **A structure that contains an embryo plant, and food stores to help it to begin to grow into a new plant**

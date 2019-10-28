@@ -1,0 +1,99 @@
+# Bahan Ujian Mid Semester I - Ekonomi
+---
+- Perdagangan Internasional adalah **hubungan tukar menukar barang atau jasa yang saling menguntungkan antara suatu negara dengan negara lain**
+- Teori perdagangan internasional:
+  - Adam Smith: ***theory of absolute advantage***
+  - David Ricardo: ***theory of comparative advantage***
+- Faktor-faktor terjadinya perdagangan internasional:
+  - **Perbedaan SDA**
+  - **Efisiensi**
+  - **Tingkat teknologi**
+  - **Selera**
+  - Lainnya:
+    - **Sosial**
+    - **Budaya**
+    - **Politik**
+    - **Pertahanan dan Keamanan**
+- Manfaat perdagangan internasional:
+  - **Meningkatnya kualitas konsumsi**
+  - **Mendatangkan devisa bagi negara**
+  - **Membuka kesempatan kerja**
+  - **Menstabilkan harga-harga**
+  - **Mempercepat transfer teknologi**
+- Dampak perdagangan internasional:
+  - **Menurunkan biaya produksi melalui kenaikan tingkat produksi (*economics of scale*)**
+  - **Meningkatkan produktifitas pekerja karena adanya spesialisasi**
+  - **Meningkatkan kemampuan konsumsi masyarakat**
+  - **Meningkatkan pilihan barang konsumsi masyarakat**
+- Valuta asing adalah **jenis mata uang yang digunakan di negara lain**
+- Beberapa valuta asing:
+  - Amerika Serikat: **USD**
+  - Uni Eropa: **Euro**
+  - Arab Saudi: **Riyal (R/SR)**
+  - Australia: **AUD**
+  - Bangladesh: **Taka (Tk)**
+  - Brunei Darussalam: **Dollar Brunei**
+  - Filipina: **Peso (P)**
+  - India: **Rupee (Re)**
+  - Inggris: **Poundsterling**
+  - Irak: **Dinar (ID)**
+  - Iran: **Rial (R/RL)**
+  - Korea Selatan: **Won**
+  - Mesir: **Pound (E)**
+  - Myanmar: **Kyat (K)**
+  - Pakistan: **Rupee**
+  - RRC: **Yuan (Y)**
+  - Rusia: **Rubel (R)**
+  - Thailand: **Baht**
+- Kurs adalah perbandingan nilai mata uang asing terhadap mata uang dalam negeri
+- Macam-macam kurs:
+  - **Beli**: Kurs yang diberlakukan apabila bank membeli mata uang
+  - **Jual**: Kurs yang diberlakukan apabila bank menjual mata uang
+  - **Tengah**: Kurs rata-rata antara beli dan jual
+- Apabila kurs meningkat, disebut **depresiasi**
+- Apabila kurs menurun, disebut **terapresiasi**
+- Devisa adalah **alat pembayaran internasional yang dapat diterima didunia internasional dan memiliki catatan kurs resmi di bank sentral**
+- Jenis Devisa:
+  - **Umum**: Digunakan dalam transaksi perdagangan internasional
+  - **Kredit**: Digunakan dalam kegiatan pinjam meminjam antarnegara
+- Sumber pendapatan devisa:
+  - **Ekspor barang dan jasa**
+  - **Penjaman luar negeri**
+  - **Pendapatan luar negeri (investasi)**
+- Fungsi devisa:
+  - **Alat tukar internasional**
+  - **Alat pembayaran luar neheri**
+  - **Alat stabilisasi mata uang suatu negara**
+- Contoh devisa: **Emas, Perak, Valuta Asing, Wesel Asing**
+- *Commercial Bills of Exchange* adalah **wesel yang mewajibkan bagi yang menandatanganinya untuk membayar sejumlah uang yang tertera pada wesel dan dapat diperjualbelikan**
+  - Pembagian berdasarkan dokumen:
+    - ***Clean drafts***: Wesel tanpa dilengkapi dokumen pengiriman barang
+    - ***Documentary drafts***: Wesel yang dilengkapi dokumen pengiriman barang
+  - Pembagian berdasarkan waktu pembayaran:
+    - ***Sight drafts***: Wesel yang harus dibayar setelah diperlihatkan
+    - ***Arrival drafts***: Wesel yang pembayarannya dilakukan setelah barang diserahkan
+    - ***Date drafts***: Wesel yang pembayarannya dilakukan sesuai dengan tanggal yang telah ditetapkan
+- *Letter of Credit* adalah **suatu surat yang ditandatangani oleh Bank yang menyetujui akan membayar wesel yang ditarik eksportir**
+  - Pihak yang bersangkutan:
+    - Importir: ***opener***
+    - Bank yang menyetujui: ***issuer***
+    - Eksportir: ***beneficiary***
+    - Bank tempat asal eksportir: ***confirming bank***
+- Ekspor: **Arus barang dan jasa dari dalam negeri ke luar negeri**
+- Impor: **Arus barang dari luar negeri ke dalam negeri**
+- Negara: **Pengekspor / Pengimpor**
+- Perusahaan: **Eksportir / Importir**
+- Dampak positif perdagangan Internasional:
+  - **Terpenuhi berbagai macam kebutuhan**
+  - **Penduduk dapat memperoleh barang dengan harga yang lebih murah**
+  - **Devisa negara meningkat**
+  - **Terbukanya kesempatan kerja**
+  - **Terciptanya persahabatan kerjasama**
+  - **Terdorongnya kegiatan ekonomi dalam negeri**
+- Dampak negatif perdagangan internasional:
+  - **Mundurnya industri dalam negeri jika masyarakat hanya menyukai produk impor**
+  - **Munculnya ketergantungan**
+- Sri Mulyani:
+  - **Pernah menduduki jabatan Executive Director Dana Moneter Internasional (IMF) yang mewakili 12 negara Asia Tenggara**
+  - **Lahir di Tanjung Karang, 26 Aug 1956**
+  - **Dinobatkan sebagai Menteri Keuangan Terbaik 2006 oleh Emerging Markets pada 18 Sep 2006**
