@@ -1,0 +1,111 @@
+# Mock Test Ujian Mid 1 - Geografi
+---
+
+- Pengertian negara maju dan negara berkembang
+   - . . . : Negara yang memiliki standar hidup yang tinggi dengan pendapatan per kapita tinggi, pertumbuhan penduduk rendah, serta memiliki perekonomian yang baik.
+   - . . . : Kebaliakn dari negara maju.
+- Ciri-ciri negara maju dan negara berkembang
+    - Negara Maju
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+    - Negara Berkembang
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - . . . 
+        - Masalah tekanan penduduk yang meliputi:
+     	    - . . . 
+     	    - . . . 
+     	    - . . . 
+- Negara berkembang perekonomiannya di sektor . . . .
+- Negara maju perekonomiannya di sektor . . . .
+- Negara pengekspor minyak di dunia: . . . .
+- Negara berkembang yang jumlah penduduknya paling banyak adalah . . . , . . . .
+- Negara maju yang jumlah penduduknya paling banyak . . . 
+- Hasil ekspor negara maju dan negara berkembang
+    - Maju: . . . 
+    - Berkembang: . . . 
+- Negara maju di masing2 benua
+    - Eropa: . . . 
+    - Afrika: . . . 
+    - Asia: . . . 
+    - Amerika: . . . 
+    - Australia: . . . 
+- Negara berkembang di masing2 benua
+    - Eropa: . . . 
+    - Afrika: . . . 
+    - Asia: . . . 
+    - Amerika: . . . 
+    - Australia: . . . 
+- Cara mengukur kualitas penduduk suatu negara (indikator): . . . .
+- Cara yang dilakukan Jepang untuk mengembangkan teknologi: . . .  
+- Pembagian negara di dunia berdasarkan pendapatan per kapita
+    - Rendah: . . . 
+    - Menegangah-Bawah: . . . 
+    - Menengah-Atas: . . . 
+    - Tinggi: . . . 
+- Pembagian negara di dunia berdasarkan sektor penggerak ekonomi utamanya
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+- Negara2 maju yang bergabung dalam EU: . . . 
+- Negara2 maju yang berada di benua Eropa tetapi bukan anggota EU: . . . 
+- Negara yang kaya akan SDA tetapi bukan negara maju (kaya): . . . 
+- Industri andalan USA
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+- Hasil pertanian Thailand: . . . 
+- Negara yang masih tergolong miskin banyak terdapat di benua: . . . 
+- Hasil sektor pertanian Brazil: . . . .
+- Produk otomotif Jerman: . . . 
+- Industri yang terdapat di Thailand: . . . 
+- Luas negara Amerika Serikat: . . . 
+- Siapa penemu benua Amerika: . . . 
+- Negara2 maju bukan Eropa: . . . 
+- Skala
+  - Pengertian: . . . 
+  - Fungsi: . . . 
+- Manusia biasanya bermukim di bentang alam (dataran) . . . 
+- Topografi / Peta Kontur adalah . . . 
+- Pola geografi:
+  - . . . : Terbentuk di bentang alam rendah dan disebabkan karena objek geografi.
+  - . . . : Terbentuk di pegunungan.
+  - . . . : Terbentuk di wilayah kapur.
+- 3 langkah dalam mengamati peta: 
+  - . . . : Pengamatan atas adanya suatu objek dan membedakan objek satu dengan yang lain
+  - . . . : Upaya memberi ciri/karakter terhadap objek yang dideteksi
+  - . . . : Tahap pengumpulang keterangan yang berkenan dengan objek yang diamati.
+- Objek geografi berupa benda & fenomena
+- Selain dari bentang alam, faktor lain yang menyebabkan penyebaran penduduk yaitu:
+  - . . . : Penduduk selalu memilih tempat tinggal yang baik, strategis, tanah subur, relief baik, cukup air, dan daerahnya aman
+  - . . . : Tingkat pertumbuhan penduduk disetiap daerah adalah berbeda-beda. hal ini disebabkan karena adanya perbedaan tingkat kematian, tingkat kelahiran, dan angka perkawinan
+  - . . . : Daerah yang memasyarakatkan maju, pola berpikirnya bagus, dan keadaan pembangunan fisiknya maju akan tumbuh lebih cepat dibandingkan dengan daerah yang terbelakang. 
+- Tujuan interpretasi: Pengumpulan keterangan yang berkenan dengan objek yang diamati.
+- Garis-garis yang menghubungkan nilai yang sama:
+  - *Isobar*: . . . 
+  - *Isochrone*: . . . 
+  - *Ishoyet*: . . . 
+  - *Isobath*: . . . 
+- Pengertian penampang lintang: Gambaran atau profil relief dari bentuk muka bumi.
+
+. . . 
+- Pendapatan perkapita adalah rata-rata pendapatan penduduk disuatu negara pada periode tertentu dan menjadi tolak ukur kemakmuran negara tersebut.
