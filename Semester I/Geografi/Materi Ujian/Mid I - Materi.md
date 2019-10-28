@@ -1,0 +1,27 @@
+# Materi Ujian Mid Semester I - Geografi
+---
+
+- Negara maju adalah **negara yang memiliki standar hidup yang tinggi, tingkat pendapatan per kapita tinggi, pertumbuhan penduduk rendah, mampu menangani masalah kependudukan, memiliki perekonomian yang baik, serta memiliki infrastruktur dan fasilitas umum yang lengkap**
+- Negara berkembang adalah **negara dengan tingkat pendapatan per kapita rendah, angka pertumbuhan penduduk tinggi, infrastruktur dan fasilitas sosial sedikit, tingkat kesehatan dan pendidikan pun tidak begitu tinggi**
+- Indikator kriteria suatu negara:
+  - **Jumlah penduduk**
+  - **Tingkat pertumbuhan penduduk**
+  - **Tingkat kematian bayi**
+  - **Rata-rata kelahiran hidup**
+  - **Usia harapan hidup**
+  - **Pendapatan per kapita**
+- Karakteristik negara maju:
+  - Tingginya penguasaan ilmu pengetahuan dan teknologi
+  - Mampu mengolah SDA secara optimal
+  - Mengandalkan sektor Industri
+- Karakteristik negara berkembang:
+  - Mengandalkan sektor primer
+  - Adanya masalah tekanan penduduk seperti tingkat pengangguran tinggi, produktivitas rendah, tingginya tingkat kemiskinan, dll.
+  - Infrastruktur masih terbelakang
+  - Masih memerlukan suntikan dana dari negara lain
+  - Ketergantungan pada impor hasil industri dan ekspor hasil pertanian
+  - Tingkat kesehatan rendah
+  - Belum mampu mengolah SDA dengan optimal
+- Persebarang negara maju:
+  - Uni Eropa: Inggris, Irlandia, Perancis, Italia, Spanyol, Portugal, Jerman, Belanda, Belgia, Luxemburg, Rusia, Denmark, Finlandia, Swedia, dan Yunani.
+  - Benua Eropa non Uni Eropa:

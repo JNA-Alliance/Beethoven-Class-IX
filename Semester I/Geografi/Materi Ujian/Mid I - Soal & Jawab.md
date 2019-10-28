@@ -64,7 +64,7 @@
     - **Ekonomi Mengengah**
     - **Ekonomi Lemah**
 - Negara2 maju yang bergabung dalam EU: **Belanda, Jerman, Italia, Belgia, Luksemburg, Prancis, Inggris, Denmark, Irlandia, Yunani, Portugal, Spanyol, Austria, Finlandia, Hongaria, dll.**
-- Negara2 maju yang berada di benua Eropa tetapi bukan anggota EU: **Swiss, Serbia**
+- Negara2 maju yang berada di benua Eropa tetapi bukan anggota EU: **Norwegia, Swiss, Monako, Islandia, Andorra, dan Vatikan**
 - Negara yang kaya akan SDA tetapi bukan negara maju (kaya): **Indonesia**
 - Industri andalan USA
     - **Industri mobil, mesin mesin, dan bahan kimia**
@@ -81,7 +81,7 @@
 - Industri yang terdapat di Thailand: **Tekstil, semen, dan barang elektronik**
 - Luas negara Amerika Serikat: **9.834 juta km²**
 - Siapa penemu benua Amerika: **Christopher Columbus**
-- Negara2 maju bukan Eropa: **Amerika Serikat, Kanada, Jepang, Hong Kong, Singapura**
+- Negara2 maju bukan Eropa: **Amerika Serikat, Kanada, Jepang, Hong Kong, Singapura, Korea Selatan, Taiwan**
 - Arti simbol-simbol pada peta: ![Image](https://i.ibb.co/Lg9TkJ6/Simbol-pada-Peta.jpg)
 - Skala
   - Pengertian: **Menunjukkan perbandingan antara jarak di peta dan jarak sebenarnya dengan angka**
