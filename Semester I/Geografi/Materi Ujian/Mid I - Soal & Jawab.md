@@ -1,0 +1,113 @@
+# Materi Ujian Mid 1 - Geografi
+---
+
+**KISI-KISI**
+- Pengertian negara maju dan negara berkembang
+   - **Maju**: Negara yang memiliki standar hidup yang tinggi dengan pendapatan per kapita tinggi, pertumbuhan penduduk rendah, serta memiliki perekonomian yang baik.
+   - **Berkembang**: Kebaliakn dari negara maju.
+- Ciri-ciri negara maju dan negara berkembang
+    - Negara Maju
+        - **Pendapatan per kapita tinggi**
+        - **Angka harapan hidup tinggi**
+        - **Standar kehidupan tinggi**
+        - **Pertumbuhan penduduk kecil**
+        - **Kegiatan ekonomi berbasis perdagangan, industri, dan jasa**
+        - **Sebagian besar penduduk tinggal di perkotaan**
+        - **Mampu mengolah SDA secara optimal**
+        - **Tingkat pendidikan penduduk rata-rata tinggi**
+        - **Angka kematian bayi kecil**
+    - Negara Berkembang
+        - **Pendapatan per kapita rendah**
+        - **Angka harapan hidup rendah**
+        - **Angka kelahiran dan kematian tinggi**
+        - **Tingkat kesehatan rendah**
+        - **Tingkat produktivitas rendah**
+        - **Ketergantungan pada sektor pertanian dan produksi primer**
+        - **Infrastuktur masih terbelakang**
+        - **Belum mampu mengolah SDA dengan baik [?]**
+        - **Ketergantungan dalam hubungan internasional untuk modal pengembangan ekonomi**
+        - Masalah tekanan penduduk yang meliputi:
+     	    - **Tingkat pengangguran dan kemiskinan tinggi**
+     	    - **Beban tanggungan tinggi**
+     	    - **Mudah terpengaruh negara lain**
+- Negara berkembang perekonomiannya di sektor **Pertanian atau Agraris dan SDA**.
+- Negara maju perekonomiannya di sektor **Industri dan Jasa**.
+- Negara pengekspor minyak di dunia: **Amerika Serikat, Arab Saudi, Rusia, Tiongkok, Kanada, Iran, Irak, Brasil, Meksiko, Kuwait**.
+- Negara berkembang yang jumlah penduduknya paling banyak adalah **China (1.379.302.771 jiwa)**, **India (1.281.935.911 jiwa)**.
+- Negara maju yang jumlah penduduknya paling banyak **Amerika Serikat (326.625.791 jiwa)**
+- Hasil ekspor negara maju dan negara berkembang
+    - Maju: **Hasil Industri.**
+    - Berkembang: **Hasil Pertanian & Pertambangan.**
+- Negara maju di masing2 benua
+    - Eropa: **Belanda, Jerman, Prancis**
+    - Afrika: **Mesir, Tunisia, Gabon**
+    - Asia: **Jepang, Singapura, Hong Kong**
+    - Amerika: **Kanada, Amerika Serikat**
+    - Australia: **Australia, Selandia Baru**
+- Negara berkembang di masing2 benua
+    - Eropa: **Bulgaria, Ukraina, Turki, Serbia**
+    - Afrika: **Madagaskar, Nigeria, Zimbabwe**
+    - Asia: **Indonesia, India, Cina, Palestina**
+    - Amerika: **Argentina, Brazil, Venezuela**
+    - Australia: **Nauru, Samoa, Solomon**
+- Cara mengukur kualitas penduduk suatu negara (indikator): **Tingkat Pendapatan, Pendidikan, dan Kesehatan Penduduk**.
+- Cara yang dilakukan Jepang untuk mengembangkan teknologi: **Membuka negara dan mempelajari teknologi barat** 
+- Pembagian negara di dunia berdasarkan pendapatan per kapita
+    - Rendah: **< $675**
+    - Menegangah-Bawah: **$675-2.695**
+    - Menengah-Atas: **$2.696-$8.335**
+    - Tinggi: **> $8.335**
+- Pembagian negara di dunia berdasarkan sektor penggerak ekonomi utamanya
+    - **Sektor Industri**
+    - **Pengekspor Minyak**
+    - **Ekonomi Terpusat**
+    - **Ekonomi Mengengah**
+    - **Ekonomi Lemah**
+- Negara2 maju yang bergabung dalam EU: **Belanda, Jerman, Italia, Belgia, Luksemburg, Prancis, Inggris, Denmark, Irlandia, Yunani, Portugal, Spanyol, Austria, Finlandia, Hongaria, dll.**
+- Negara2 maju yang berada di benua Eropa tetapi bukan anggota EU: **Swiss, Serbia**
+- Negara yang kaya akan SDA tetapi bukan negara maju (kaya): **Indonesia**
+- Industri andalan USA
+    - **Industri mobil, mesin mesin, dan bahan kimia**
+    - **Industri pesawat terbang**
+    - **Industri tekstil**
+    - **Industri minyak, kapal, alat listrik, dan kimia**
+    - **Industri pengolahan hasil pertanian**
+    - **Industri besi baja**
+    - **Industri tembaga**
+- Hasil pertanian Thailand: **Beras**
+- Negara yang masih tergolong miskin banyak terdapat di benua: **Afrika**
+- Hasil sektor pertanian Brazil: **Kopi, Padi, Kapas, Cokelat, Tembakau, Kacang Kedelai, Jagung, dan Tebu**.
+- Produk otomotif Jerman: **Audi, Volkswagen, BMW, Porsche**
+- Industri yang terdapat di Thailand: **Tekstil, semen, dan barang elektronik**
+- Luas negara Amerika Serikat: **9.834 juta km²**
+- Siapa penemu benua Amerika: **Christopher Columbus**
+- Negara2 maju bukan Eropa: **Amerika Serikat, Kanada, Jepang, Hong Kong, Singapura**
+- Arti simbol-simbol pada peta: ![Image](https://i.ibb.co/Lg9TkJ6/Simbol-pada-Peta.jpg)
+- Skala
+  - Pengertian: **Menunjukkan perbandingan antara jarak di peta dan jarak sebenarnya dengan angka**
+  - Fungsi: **Memudahkan perhitungan dan perkiraan perbesaran pada keadaan yang sebenarnya**
+- Manusia biasanya bermukim di bentang alam (dataran) **rendah**
+- Topografi / Peta Kontur adalah **peta yang menggunakan garis kontur**
+- Pola geografi:
+  - **Pemukiman linier (Pola memanjang)**: Terbentuk di bentang alam rendah dan disebabkan karena objek geografi.
+  - **Pemukiman terpusat**: Terbentuk di pegunungan.
+  - **Pemukiman tersebar**: Terbentuk di wilayah kapur.
+- 3 langkah dalam mengamati peta: 
+  - **Deteksi**: Pengamatan atas adanya suatu objek dan membedakan objek satu dengan yang lain
+  - **Identifikasi**: Upaya memberi ciri/karakter terhadap objek yang dideteksi
+  - **Interpretasi**: Tahap pengumpulang keterangan yang berkenan dengan objek yang diamati.
+- Objek geografi berupa benda & fenomena
+- Selain dari bentang alam, faktor lain yang menyebabkan penyebaran penduduk yaitu:
+  - **Fisiografis**: Penduduk selalu memilih tempat tinggal yang baik, strategis, tanah subur, relief baik, cukup air, dan daerahnya aman
+  - **Biologi**: Tingkat pertumbuhan penduduk disetiap daerah adalah berbeda-beda. hal ini disebabkan karena adanya perbedaan tingkat kematian, tingkat kelahiran, dan angka perkawinan
+  - **Kebudayaan dan teknologi**: Daerah yang memasyarakatkan maju, pola berpikirnya bagus, dan keadaan pembangunan fisiknya maju akan tumbuh lebih cepat dibandingkan dengan daerah yang terbelakang. 
+- Tujuan interpretasi: Pengumpulan keterangan yang berkenan dengan objek yang diamati.
+- Garis-garis yang menghubungkan nilai yang sama:
+  - *Isobar*: **Tekanan udara**
+  - *Isochrone*: **Waktu perjalanan**
+  - *Ishoyet*: **Curah hujan**
+  - *Isobath*: **Kedalaman (air)**
+- Pengertian penampang lintang: Gambaran atau profil relief dari bentuk muka bumi.
+
+**TAMBAHAN**
+- Pendapatan perkapita adalah rata-rata pendapatan penduduk disuatu negara pada periode tertentu dan menjadi tolak ukur kemakmuran negara tersebut.
