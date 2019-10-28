@@ -2,8 +2,8 @@
 ---
 - Perdagangan Internasional adalah . . . 
 - Teori perdagangan internasional:
-  - Adam Smith: . . . *
-  - David Ricardo: . . . *
+  - Adam Smith: . . . 
+  - David Ricardo: . . . 
 - Faktor-faktor terjadinya perdagangan internasional:
   - . . . 
   - . . . 
@@ -67,18 +67,18 @@
 - Contoh devisa: . . . 
 - *Commercial Bills of Exchange* adalah . . . 
   - Pembagian berdasarkan dokumen:
-    - . . . *: Wesel tanpa dilengkapi dokumen pengiriman barang
-    - . . . *: Wesel yang dilengkapi dokumen pengiriman barang
+    - . . . : Wesel tanpa dilengkapi dokumen pengiriman barang
+    - . . . : Wesel yang dilengkapi dokumen pengiriman barang
   - Pembagian berdasarkan waktu pembayaran:
-    - . . . *: Wesel yang harus dibayar setelah diperlihatkan
-    - . . . *: Wesel yang pembayarannya dilakukan setelah barang diserahkan
-    - . . . *: Wesel yang pembayarannya dilakukan sesuai dengan tanggal yang telah ditetapkan
+    - . . . : Wesel yang harus dibayar setelah diperlihatkan
+    - . . . : Wesel yang pembayarannya dilakukan setelah barang diserahkan
+    - . . . : Wesel yang pembayarannya dilakukan sesuai dengan tanggal yang telah ditetapkan
 - *Letter of Credit* adalah . . . 
   - Pihak yang bersangkutan:
-    - Importir: . . . *
-    - Bank yang menyetujui: . . . *
-    - Eksportir: . . . *
-    - Bank tempat asal eksportir: . . . *
+    - Importir: . . . 
+    - Bank yang menyetujui: . . . 
+    - Eksportir: . . . 
+    - Bank tempat asal eksportir: . . . 
 - Ekspor: . . . 
 - Impor: . . . 
 - Negara: . . . 
