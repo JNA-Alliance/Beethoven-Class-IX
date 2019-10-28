@@ -1,0 +1,99 @@
+# Mock Test Mid Semester I - Ekonomi
+---
+- Perdagangan Internasional adalah . . . 
+- Teori perdagangan internasional:
+  - Adam Smith: . . . *
+  - David Ricardo: . . . *
+- Faktor-faktor terjadinya perdagangan internasional:
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+  - Lainnya:
+    - . . . 
+    - . . . 
+    - . . . 
+    - . . . 
+- Manfaat perdagangan internasional:
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+- Dampak perdagangan internasional:
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+- Valuta asing adalah . . . 
+- Beberapa valuta asing:
+  - Amerika Serikat: . . . 
+  - Uni Eropa: . . . 
+  - Arab Saudi: . . . 
+  - Australia: . . . 
+  - Bangladesh: . . . 
+  - Brunei Darussalam: . . . 
+  - Filipina: . . . 
+  - India: . . . 
+  - Inggris: . . . 
+  - Irak: . . . 
+  - Iran: . . . 
+  - Korea Selatan: . . . 
+  - Mesir: . . . 
+  - Myanmar: . . . 
+  - Pakistan: . . . 
+  - RRC: . . . 
+  - Rusia: . . . 
+  - Thailand: . . . 
+- Kurs adalah perbandingan nilai mata uang asing terhadap mata uang dalam negeri
+- Macam-macam kurs:
+  - . . . : Kurs yang diberlakukan apabila bank membeli mata uang
+  - . . . : Kurs yang diberlakukan apabila bank menjual mata uang
+  - . . . : Kurs rata-rata antara beli dan jual
+- Apabila kurs meningkat, disebut . . . 
+- Apabila kurs menurun, disebut . . . 
+- Devisa adalah . . . 
+- Jenis Devisa:
+  - . . . : Digunakan dalam transaksi perdagangan internasional
+  - . . . : Digunakan dalam kegiatan pinjam meminjam antarnegara
+- Sumber pendapatan devisa:
+  - . . . 
+  - . . . 
+  - . . . 
+- Fungsi devisa:
+  - . . . 
+  - . . . 
+  - . . . 
+- Contoh devisa: . . . 
+- *Commercial Bills of Exchange* adalah . . . 
+  - Pembagian berdasarkan dokumen:
+    - . . . *: Wesel tanpa dilengkapi dokumen pengiriman barang
+    - . . . *: Wesel yang dilengkapi dokumen pengiriman barang
+  - Pembagian berdasarkan waktu pembayaran:
+    - . . . *: Wesel yang harus dibayar setelah diperlihatkan
+    - . . . *: Wesel yang pembayarannya dilakukan setelah barang diserahkan
+    - . . . *: Wesel yang pembayarannya dilakukan sesuai dengan tanggal yang telah ditetapkan
+- *Letter of Credit* adalah . . . 
+  - Pihak yang bersangkutan:
+    - Importir: . . . *
+    - Bank yang menyetujui: . . . *
+    - Eksportir: . . . *
+    - Bank tempat asal eksportir: . . . *
+- Ekspor: . . . 
+- Impor: . . . 
+- Negara: . . . 
+- Perusahaan: . . . 
+- Dampak positif perdagangan Internasional:
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+  - . . . 
+- Dampak negatif perdagangan internasional:
+  - . . . 
+  - . . . 
+- Sri Mulyani:
+  - . . . 
+  - . . . 
+  - . . . 
