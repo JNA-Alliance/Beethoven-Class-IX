@@ -1,0 +1,117 @@
+# Materi Ujian Mid Semester I - Biologi
+---
+
+- Pengertian: Proses pembuangan zat sisa hasil dari metabolisme yang tidak dibutuhkan oleh tubuh
+  - Ekskresi: Cairan dan Gas
+  - Defekasi: Hormon
+  - Sekresi:  H2S (Kentut) & Zat Padat (Feses)
+- 4 organ ekskresi [Ginjal KuPaHa]:
+  - **Ginjal** -> **Ren**/**Kidneys**
+  - **Kulit** -> **Intergomen**/**Skin**
+  - **Paru-paru** -> **Pulmo**/**Lungs**
+  - **Hati** -> **Hepar**/**Liver**
+- Fungsi:
+  - Ginjal: **Menyaring darah dan menghasilkan urin**
+  - Kulit: **Menghasilkan keringat**
+  - Paru-paru: **Bernapas (Inspirasi & Ekspirasi)**
+  - Hati: 
+    - **Alat Ekskresi: Menghasilkan empedu untuk mengemulsikan lemak di usus halus**
+    - **Menawar racun (imun)**
+    - **Perombakan sel darah merah menjadi Birilubin dan Biliverdin**
+    - **Mengubah Asam Amino menjadi Amonia dan Urea**
+    - **Mengubah Pro Vitamin A menjadi Vitamin A**
+    - **Mengubah Protombin menjadi Trombin (Pembekuan darah)**
+- Struktur Gingal: 
+  - Terdiri dari (Luar ke dalam): **Korteks (Kulit), Medula (Sumsum), Pelvis Renalis (Rongga)**
+  - Terdapat jutaan sel penyaring darah nefron di korteks.
+  - Nefron terdiri dari Badan Malphigi dan Tubulus
+- Lapisan pada kulit:
+  - **Epidermis (Ari)**:
+    - Lapisan Tanduk
+      - **Korneum**
+      - **Lusidum**
+    - Lapisan Malphigi
+      - **Granulosom**
+      - **Spinusum**
+      - **Basale/Gesminativum (Sel kulit baru)**
+  - **Dermis (Dengat)**
+    - **Akar rambut**
+    - **Kelenjar minyak (Glandula Sebasea)**
+    - **Kelenjar keringat (Glandula Sudorifera)**
+    - **Pembulu darah**
+  - **Adiposa (Ikat Bawah Lemak)**
+- 3 Proses pembentukan kulit:
+  - **Filtrasi** @ **Glomerulus** (**Darah/Urin Primer**) **Air, Urea, NaCI, Ion2, Glukosa, Asam Amino, Protein**
+  - **Reabsorpsi** @ **T.K. Proximal** (**Urin Primer/Urin Sekunder**) **Air, Urea, Empedu, Penisilin, Ion2**
+  - **Augmentasi** @ **T.K. Distall** (**Urin Sekunder/Urin Sesungguhnya**) **Air, Urea, Empedu, Asam Urat, Amonia, Hormon**
+- Gangguan/Penyakit pada sistem ekskresi:
+  - Diabetes Melitus: **Tingginya kadar gula pada darah atau produksi insulin kurang**. Solusi (Pencegahan): **Mengatur kadar gula darah dengan olahraga, diet, suntikan hormon insulin dan meminum obat**
+  - Diabetes Insipidus: **Kekurangan hormon ADH (Antidiuretic hormone). Jumlah urine sedikit tetapi sering**. Solusi: **Penberian ADH sintesis melalui suntikan, hirup ataupun tablet**
+  - Batu Ginjal: **Endapan batu kalsium di dalam rongga ginjal, saluran, atau didalam kantung kemih**. Pencegahan: **Cegah Dehidrasi**. Pengobatan: **Operasi**
+  - Nefritis/Gagal Ginjal: **Kerusakan glomerulus karena bakteri, Urea masuk ke darah (Uremia)**. Solusi: **Cuci Darah dengan mesin Dialiser atau Transplansi Ginjal**.
+- Faktor yang mempengaruhi jumlah urin: **Jumlah air yang diminum, Suhu, Hormon ADH, Minuman berkafein**
+- Alat reproduksi pada Pria dan Wanita:
+  - Pria:
+    - Organ Luar: 
+      - Skrotum: **Mengatur suhu testis**
+      - Penis: **Sebagai alat kopulasi**
+    - Organ Dalam: 
+      - Testis: **Terdapat tubulus seminiferus (penghasil sperma), Penghasil hormon kelamin Testosteron**
+      - Epididimis: **Saluran berkelok2 untuk mematangkan sperma (3-12 hari)**
+      - Vas Defens: **Saluran yang membawa sperma matang ke Vesikula Seminalis**
+      - Vesikula Seminalis: **Kantung Cairan Semen. Memproduksi larutan Alkaliuntuk menetralkan suasanan asam dalam saluran reproduksi Wanita.**
+      - Uretra: **Saluran pembuangan sperma dan urine**
+      - Kelenjar Prostat: **Cairan semen**
+      - Kelenjar Cowper: **Memperi perlindungan pada sperma saat melalui uretra**
+  - Wanita:
+    - Organ Luar:
+      - **Vulva**
+      - **Labia (Bibir Vagina)**
+        - Mayora: **Luar, Gelap**
+        - Minora: **Dalam, Kemerahan**
+    - Organ Dalam:
+      - Ovarium: **Menghasilkan sel terum dan hormon Progesteron Esitogen**
+      - Oviduk: **Saluran telur tempat fertilisasi. Terdapat rambut halus (Silia) membawa sel telur ke rahim**
+      - Uterus (Rahim): **Termpat berkembang biak Embrio dan Janin**
+      - Serviks (Leher Rahim)
+      - Vagina: **Sebagai alat kopulasi, tempat kandungan bagi, tembat menstruasi**
+- Pengertian
+  - Fertilisasi: **Penyatuan sel kelamin jantan dan betina**
+  - Ovulasi: **Peristiwa pelepasan sel telur dari ovarium**
+  - Menstruasi: **Proses peluruhan dinding rahum bersama darah akibat sel telur tidak dibuahi**
+- Tahap Menstruasi:
+  - Fase Mens (5-7 Hari)
+    - **Hormon Progresteron menurun**
+    - **Dinding rahim (Endometrium) berkontraksi, mengeluarkan sel telur dan darah**
+  - Fase Folikuler (Hari ke 5-13)
+    - **Hormon FSH (Foliker Stimulative Hormone) naik dan meransang sel telur baru**
+    - **Hormon Esterogen diproduksi**
+  - Fase Ovulasi (Hari ke 14)
+    - **Masa subut wanita**
+    - **Hormon LH (Luitenising Hormon) meningkat**
+    - **Hormon Esterogen meningkat**
+    - **Sel telur naik ke oviduk**
+  - Fase Luteal (Hari ke 15-28)
+    - **Korpus Luteum dihasilkan dari bekas2 folikel sel telur**
+    - **Hormon Progesteron diproduksi oleh korus luteum**
+- Hormon yang mempengaruhi sikulus menstruasi:
+  - **Progesteron**
+  - **Esterogen**
+  - **Folikel Stimulative Hormone**
+  - **Luitenising Hormone**
+- Pengertian Amnion & Placenta dan Fungsinya
+  - Amnion/Air ketuban: Cairan yang terdapat dalam ruangan yang diliputi selaput janin.
+    - **Melindungi janin terhadap trauma dari luar**
+    - **Menjaga keseimbangan suhu dan lingkungan asam-basa (pH) dalam rongga amnion**
+    - **Menjaga keseimbangan tekanan dalam seluruh ruangan intrauterin (terutama pada persalinan).**
+    - **Membersihkan / melicinkan jalan lahir, dengan cairan yang steril, sehingga melindungi bayi dari kemungkinan infeksi jalan lahir.**
+  - Placenta/Tembuni: Suatu organ dalam kandungan pada masa kehamilan
+    - **Memberikan bahan makanan pada janin**
+    - **Mengalirkan keluar sisa metabolisme janin**
+    - **Memberikan O2 dan mengeluarkan CO2 janin**
+    - **Barrier terhadap infeksi bakteri dan virus, zat-zat toksik**
+- Manfaat asi bagi bayi:
+  - **Menambah mental bayi**
+  - **Memberikan kekebalan tubuh bayi**
+  - **Asi tidak basi**
+  - **Asi lebih higenis**
