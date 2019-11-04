@@ -49,19 +49,19 @@
 19. Tugas utama pasukan sekutu (NICA) di ID: **Mengembalikan pemerintahan sipil dan hukum pemerintah kolonial Hindia belanda**
 20. Pemimpin pertempuran Surabaya: **Bridgen AWS Mallaby dan Gubernur Suryo**
 21. Perjanjian Renville: 
-    - **Perwakilan**: PM Amir Sjarifoeddin (ID), Abdulkadir Widjojoatmodjo (Belanda)
-    - 17 Januari 1948, latar belakang Agresi Militer I, ID Merugi karena wilayah menyempit dan blokade ekonomi Belanda.
+    - Perwakilan: **PM Amir Sjarifoeddin** (ID), **Abdulkadir Widjojoatmodjo** (Belanda)
+    - **17 Januari 1948**, latar belakang **Agresi Militer I**, ID Merugi karena wilayah menyempit dan blokade ekonomi Belanda.
 22. Jendral Inggris yang tewas: **AWS Mallaby**
 23. Sejarah hari Pahlawan: **10 Nov 1945, Pertempuran di Surabaya.**
 24. Perlawanan sejarah
 25. AFNEI (Allied Forces Netherlands East Indies): **Pasukan Sekutu yang bertugas di ID dipimpin oleh Lt. Jendral Sir Philip Christian.**
-    **TUGAS**:
-    - Menerima penyerahan kekuasaan dari Jepang
-    - Membebaskan pada tahanan dan intermiran sekutu
-    - Melucuti orang2 Jepand dan kemudian di pulangkan
-    - Menjaga keamanan dan ketertiban (law & order)
-    - Menghimpun keterangan guna menyelidiki pihak2 penjahat perang.
+    TUGAS:
+    - **Menerima penyerahan kekuasaan dari Jepang**
+    - **Membebaskan pada tahanan dan intermiran sekutu**
+    - **Melucuti orang2 Jepand dan kemudian di pulangkan**
+    - **Menjaga keamanan dan ketertiban (law & order)**
+    - **Menghimpun keterangan guna menyelidiki pihak2 penjahat perang.**
 26. Agresi militer belanda:
-    - **Agresi Militer I**: Pada tanggal 15 Juli 1947, van Mook mengeluarkan ultimatum supaya RI menarik mundur pasukan sejauh 10 km. dari garis demarkasi. Tentu pimpinan RI menolak permintaan Belanda ini.
-    - **Agresi Militer II**: Belanda II atau Operasi Gagak (bahasa Belanda: Operatie Kraai) terjadi pada 19 Desember 1948 yang diawali dengan serangan terhadap Yogyakarta, ibu kota Indonesia saat itu, serta penangkapan Soekarno, Mohammad Hatta, Sjahrir dan beberapa tokoh lainnya.
+    - Agresi Militer I: Pada tanggal **15 Juli 1947**, **Van Mook** mengeluarkan ultimatum supaya RI menarik mundur pasukan sejauh **10 km**. dari garis demarkasi. Tentu pimpinan RI menolak permintaan Belanda ini.
+    - Agresi Militer II: Belanda II atau Operasi **Gagak** (bahasa Belanda: **Operatie Kraai**) terjadi pada **19 Desember 1948** yang diawali dengan serangan terhadap **Yogyakarta**, ibu kota Indonesia saat itu, serta penangkapan **Soekarno, Mohammad Hatta, Sjahrir** dan beberapa tokoh lainnya.
 27.  Pertempuran bandung lautan api: **Kebakaran besar yang terjadi di kota Bandung, 23 Maret 1946. Dalam waktu tujuh jam, sekitar 200.000 penduduk Bandung membakar rumah mereka, meninggalkan kota menuju pegunungan di daerah selatan Bandung.**
