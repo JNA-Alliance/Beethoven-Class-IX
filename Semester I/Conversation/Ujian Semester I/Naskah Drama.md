@@ -18,7 +18,7 @@ Amat ramai suasana di Supermarket Favorite. Banyak pelanggan sedang berbelanja d
 ---
 Setting: Di dalam supermarket. Kasir dan Asisten kasir di posisi. 2 Customer (C1 dan C2) sedang mengantri. C3 & C4 baru masuk. Manager STANDBY OFF STAGE.
 Projector: Gambar Supermarket Favorite
----
+
 **CUSTOMER 1 START**
 K: Hello. Is this everything for you today?
 C1: Yes. Just a few items today.
@@ -96,7 +96,9 @@ C4: I'm an undercover cop, now shut your mouth! (Sambil memborgol C3)
 C3: Undercover cop? Damn.
 C4: Don't worry, I got this (C4 -> M)
 M: Who are you?
-C4: I'm an undercover cop. Here's my badge. (Sambil mengeluarkan lencana)
+C4: I'm an undercover cop.
+M: Can you proove it?
+C4: Sure! Here's my badge. (Sambil mengeluarkan lencana) 
 M: Hmm, okay, let me write the ID down. (Sambil menuliskan ID lencana)
 C4: Go ahead.
 M: Done! So, whats next?
@@ -117,7 +119,7 @@ A: Agreed. I got a nice footage. I'm going to upload it to YouTube.
 ---
 Setting: Di jalan raya. Hanya C3 dan C4
 Projector: Gambar Jalan Raya
----
+
 C3: Hey, I think it's safe to remove the cuffs now. They won't see us now.
 C4: Good idea. (Sambil mengeluarkan kunci dan membuka borgol)
 C3: Look at this loot (Sambil mengeluarkan barang curian)
@@ -130,7 +132,7 @@ C3: Yeah! The manager and the staff are so stupid!
 Setting 1: Di dalam supermarket. Belum buka (Pagi), K dan A sedang bersih-bersih dan M sedang menghitung uang.
 Setting 2: Meja dengan telepon diatas. D duduk di kursi menunggu telepon.
 Projector: Gambar Supermarket Favorite
----
+
 M: Huh, I still haven't gotten a call from the Police Office.
 K: Maybe they're still processing the case?
 M: Maybe, I'm going call them up. (Sambil mengeluarkan telepon dan menghubungi kantor polisi)
@@ -160,16 +162,81 @@ K: We're hoping for the best.
 # Scene 4 - Supermarket Day 2 x1
 ---
 Setting: Polisi sudah sampai
----
+
 M: Ah, welcome! We've been waiting for you. Come on in!
 D: Thank you for your patience.
 K: Hello Officer, this is the footage that we got.
-D: I think I knew these guys
+D: Hmmmm, Interesting scheme.
+M: I know right! They managed to fool us!
+D: I think I might saw these guys before.
 A: You do?
-D: Yeah! They had been on a shoplifting spree lately but they always managed to escape.
-D: But don't worry. This time we got a clue on where they live.
+D: Yeah! I'm sure! They had been on a shoplifting spree lately but they always managed to escape.
+K: Oh my..
+D: Say.. can I take the recording please?
+M: Sure! Go ahead, take it!
+• K mengeluarkan CD rekaman
+K: Here you go!
+D: Thank you. I will analyze this in my office. I'll keep you posted.
+M: Thank you very much for your help.
 
 # Scene 5 - Planning
 ---
-Setting: Di kantor polisi
+Setting: Di kantor polisi. 2 meja posisi menghadap penonton. Semua polisi berbaris
+
+D: Everybody gather up! I have something important to talk about.
+P1 + P2 + P3: <name> Reporting in.
+D: Good. A couple has went on a shoplifting spree for the last six months and the last attack was the Favorite Supermarket. All of our previous effort had failed to catch them but thanks to the CCTV footage from the Favorite Supermarket, I was able to trace where they live.
+• D mengeluarkan peta
+D: Here. (Sambil menunjuk satu titik di peta)
+• Semua P melihat ke titik
+D: Here is where they live. And we are going to siege them tonight.
+P1: How are you sure that they live there?
+D: With the CCTV footage
+P3: Yeah, like, how?
+D: Ah... I take the CCTV footage and with our Police Computer, managed to find a face that matches the footage from our database!
+P3: I see.. That is very cool.
+P2: Yeah, like in the movies!
+D: Okay, let's get ready!
+• Semuanya mempersiapkan senjata, peralatan, walkie-talkie, dll.
+
+# Scene 6 - Penyergapan
 ---
+Setting: Di depan rumah pencuri. Detektif out of scene dulu.
+
+• P1 mengetuk pintu
+C4: Who is it?
+P1: I got a package
+C4: Oh, it must be my iPhone 11 Pro. I'm coming!!
+• C4 membuka pintu
+C4: Wait, you're not the delivery man.
+P1: POLICE!! SHOW US YOUR HANDS! (2x)
+P2 + P3: SHOW US YOUR HANDS!
+• C4 ekspresi terkejut dan lari kedalam rumah diikuti oleh P2 dan P3
+P2: STOP! OR WE'LL SHOOT!
+• P1 menembakkan 1x ke kaki C4 dan C4 terjatuh sambil berteriak kesakitan.
+P1: (Radio) Shots fired, 1 suspect down
+• P1 memborgol C4
+• P1, P2, P3 tahan posisi dan D masuk ke scene
+D: So, this is what we have been hunting for? Roll EMS for her.
+P3: (Radio) Unit 3 requesting EMS
+• C3 datang dari belakang untuk menikam P2 namun P2 berhasil blok, dan C3 bersiap2 lari keluar
+P1 + P2 + P3: STOP RIGHT THERE! KEEP YOUR HANDS WHERE I CAN SEE THEM! / KEEP YOUR HANDS UP!
+• C3 menurut instruksi
+P3: Down on the ground, NOW!
+C3: Okay, okay.
+P2: I'm going to cuff him, cover me
+P1 + P3: I got your back!
+• P2 memborgol C3
+
+# Scene 6A - Medic!
+---
+Setting: Sama dengan Scene 6
+
+• M sudah sampai
+M: Where?
+P3: Over here! She's bleeding!
+M: Make way!
+• M menghadiri C4 dan mengeluarkan kotak P3K dan memperbani C4.
+M: Quick! Help me lift her up to the ambulance!
+D: On three. One. Two. Three.
+• D + M + P2 + P3 mengangkat C4 ke ambulans selama P1 mengantar C3 ke mobil polisi
