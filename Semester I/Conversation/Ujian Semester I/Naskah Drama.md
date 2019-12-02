@@ -24,9 +24,9 @@ K: Hello. Is this everything for you today?
 C1: Yes. Just a few items today.
 K: Did you find everything you were looking for?
 C1: Yes, thank you.
-K: Okay. Your total comes to $8.70.
+K: Okay. Your total comes to $9.
 C1: Can you break a fifty? I'm afraid I don't have anything smaller. (Sambil memberikan uang)
-K: No problem. From fifty.. $41.30 is your change. (Sambil memberikan kembalian)
+K: No problem. From fifty.. $41 is your change. (Sambil memberikan kembalian)
 C1: Thank you. (Setelah kembalian diterima)
 A: Here is your items. See you soon. (Sambil memberikan barang)
 C1: Thank you. (Setelah kembalian diterima)
@@ -230,13 +230,22 @@ P1 + P3: I got your back!
 
 # Scene 6A - Medic!
 ---
-Setting: Sama dengan Scene 6
+Setting: Tetap di posisi Scene 6. Tambah mobil Ambulans dan Polisi
 
-• M sudah sampai
-M: Where?
+• E sudah sampai
+E: Where?
 P3: Over here! She's bleeding!
-M: Make way!
-• M menghadiri C4 dan mengeluarkan kotak P3K dan memperbani C4.
-M: Quick! Help me lift her up to the ambulance!
-D: On three. One. Two. Three.
-• D + M + P2 + P3 mengangkat C4 ke ambulans selama P1 mengantar C3 ke mobil polisi
+E: Make way!
+• E menghadiri C4 dan mengeluarkan kotak P3K dan memperbani C4.
+E: Quick! Help me lift her up to the ambulance!
+E: On three. One. Two. Three.
+• D + E + P2 + P3 mengangkat C4 ke ambulans selama P1 menjaga C3
+• Ambulans dikendalikan oleh E
+
+# Scene 6B - Loots!
+---
+Setting: Ambulans sudah jalan meninggalkan scene
+
+P2: Now all we had to deal with is this guy.
+P2: Tell me, where are the items you stole yesterday?
+• C3 menunjukan tempat persembunyian barang curian
