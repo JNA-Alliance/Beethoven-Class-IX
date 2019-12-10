@@ -171,3 +171,22 @@ Puisi, 83-96
   2. **Tentukan kata kunci**
   3. **Menggunakan kata diksi**
   4. **Menggunakan gaya bahasa**
+
+### Unsur Intrinsik
+1. Tema: **Inti/Pokok pikiran cerita**
+2. Penokohan: **Watak**
+3. Latar: **Tempat, Waktu, dan Suasana**
+4. Alur: **Maju, Mundur, dan Campuran**
+5. Sudut Pandang: **Orang Kesatu (Aku), dan Orang ke-3 (Dia, Ia, Dll.)**
+6. Gaya Bahasa: **Majas** (cara melukiskan sesuatu dengan jalan menyamakannya dengan sesuatu yang lain; kiasan)
+7. Amanat: **Pesan**
+
+### Unsur Ekstrinsik
+1. Nilai Moral: **Pesan/Perilaku baik**
+2. Nilai Sosial: **Hubungan antar tokoh**
+3. Nilai Politik
+4. Nilai Ekonomi
+
+### Hukum Dalam Cerita
+- Hubungan Sosial: **Nampak dari perbuatan, perlakuan, tindakan**
+- Hubungan BatinL **Perasaan**
