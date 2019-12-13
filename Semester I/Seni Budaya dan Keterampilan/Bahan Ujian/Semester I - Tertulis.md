@@ -2,7 +2,7 @@
 ---
 1. Seni yang mengutamakan fungsi pakainya disamping segi keindahannya disebut **Seni rupa terapan**
 2. Kebutuhan manusia akan seni merupakan kebutuhan estetika yaitu untuk memenuhi **Tata keindahan**
-3. 3. Aliran seni yang berkaitan dengan bentuk luar karya seni disebut **Model/gaya**
+3. Aliran seni yang berkaitan dengan bentuk luar karya seni disebut **Model/gaya**
 4. Karya seni rupa yang menonjolkan kesederhanaan baik bentuk maupun warna merupakan ciri-ciri seni rupa **Murni/daerah** 
 5. Pelukis yang menganut aliran ekspresionisme adalah **Affandi, Ernst Ludwig Kirchner**
 6. Suatu karya seni rupa yang menggambarkan kenikmatan dialam surga merupakan karya seni yang beraliran **Surealisme**
@@ -43,10 +43,10 @@
 41. Alat musik yang menggunakan udara sebagai sumber bunyinya disebut **Aerofon**
 42. Alat musik yang menggunakan senar/dawai sebagai sumber bunyinya disebut **Kordofon** 
 43. Salah satu jenis musik idiofon adalah **(Sumber bunyi berasal dari bagian instrumen itu sendiri) Xylophone, Angklung, Organ Bambu, Gambang, Calung**
-44. 43. Music therapy merupakan bentuk perkembangan musik dengan fungsi sebagai **Alat penyembuhan**
-45. ![Gambar](https://i.ibb.co/Sn28bZz/image.png) Nama alum musik di atas adalah **Timpani**
-46. ![Gambar](https://i.ibb.co/ng1V42L/d1914d1ec57d9aa1f4247f6fbdd2361c.jpg) Nama alat musik di atas adalah **Tuba**
-47. ![Gambar](https://i.ibb.co/DYZmV0C/imgbin-instrument-clarinet-vr-G0h2ssh6ku-U7t3-Ey-Uxvn-QRX.jpg) Nama alat musik diatas adalah **Clarinet/Oboe**
+44. Music therapy merupakan bentuk perkembangan musik dengan fungsi sebagai **Alat penyembuhan**
+45. [IMAGE_TOO_LARGE] Nama alum musik di disamping adalah **Timpani**
+46. [IMAGE_TOO_LARGE] Nama alat musik di disamping adalah **Tuba**
+47. [IMAGE_TOO_LARGE] Nama alat musik disamping adalah **Clarinet/Oboe**
 48. Suara manusia merupakan jenis musik **Accapella/Vokal**
 49. Keyboard merupakan jenis musik **Elektrofon** 
 50. Triangle merupakan jenis musik **Ideofon**

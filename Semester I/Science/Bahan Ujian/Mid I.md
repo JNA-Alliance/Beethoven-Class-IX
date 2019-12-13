@@ -1,8 +1,5 @@
 # Bahan Ujian Mid Semester I - Science
 ---
-`> [root@writer] setlang EN`
-`> [root@writer] link "Formatif I.md"`
-`> [host@system] Compilation success! Building file..........100% OK!`
 
 ## Definitions
 - Algal bloom: **A big population of algae in a lake, river or sea, often caused by fertiliser**
