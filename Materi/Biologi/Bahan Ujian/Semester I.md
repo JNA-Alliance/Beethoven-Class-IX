@@ -1,3 +1,67 @@
 # Materi Ujian Semester I - Biologi
-
 ---
+
+- Pengertian Ekskresi & Defekasi
+  - Ekskresi: **Cairan & Gas**
+    **Proses pembuangan zat sisa hasil dari metabolisme yang tidak dibutuhkan oleh tubuh**
+  - Defekasi: **H2S (Kentut), Zat Padat (Feses)**
+- 4 organ ekskresi [Ginjal KuPaHa]:
+  - **Ginjal** -> **Ren**/**Kidneys**
+  - **Kulit** -> **Intergomen**/**Skin**
+  - **Paru-paru** -> **Pulmo**/**Lungs**
+  - **Hati** -> **Hepar**/**Liver**
+- Struktur Ginjal
+  - **Korteks (Kulit)**
+  - **Medula (Sumsum)**
+  - **Pelvis (Rongga)**
+- Badan2 Ginjal
+  - **Nefron: Badan Malphigi, Tubulus (Saluran)**
+  - **Badan Malphigi: Glomerulus, Kapsula Bowman**
+  - **Kapsula Bowman: TK Proximal, Lengkung Henle, TK Distall**
+- Tahap Pembentukan Urin:
+  - **Filtrasi (Penyaringan) @ Glomerulus. Darah -> Urin Primer**
+  - **Reabsorpsi (Penyerapan) @ TKP. Urin Primer -> Urin Sekunder**
+  - **Augmentasi (Pengeluaran) @ TKD. Urin Sekunder -> Urin Sesungguhnya**
+- Sistem Urinaria:
+  - **Ureter (Saluran dari Ginjal)**
+  - **Vesikula Urinaria (Kantung Kemih)**
+  - **Uretra (Saluran Pengeluaran)**
+- Fungsi Hati:
+  - **Alat Ekskresi: Menghasilkan empedu yang berguna untuk mengemulsikan lemak di usus halus**
+  - **Menawar Racun (Imun)**
+  - **Perombakan Sel Darah Merah menjadi birilubin dan biliverdin**
+  - **Penghasil amonia dan urea (daru asam amino)**
+  - **Mengubah Pro Vitamin A menjadi Vitamin A**
+  - **Mengubah Protrombin menjadi Trombin (Pembeku darah)**
+- Hasil Ekskresi:
+  - Ginjal: **Urine**
+  - Kulit: **Keringat**
+  - Paru-paru: **H20 dan C02**
+  - Hati: **Empedu**
+- Fungsi
+  - Sterkobilin: **Mewarnai feses**
+  - Urobilin: **Mewarnai urin**
+  - Birilubin: **Penghasil pigmen warna kuning dan pencegah serta menghentikan adanya serangan penyakit autoimun seperti sklerosis multiple**
+- Kelainan & Penyakit Sistem Eksresi:
+  - Diabetes Melitus: **Kencing Manis. Kadar gula tinggi dalam darah, sering merasa kehausan. Disebabkan oleh ketidakmampuan pankreas menghasilkan hormon insulin yang menurunkan kadar gula. Dapat diatasi dengan mengatur kadar gula dengan berolahraga, diet makanan, suntikan insulin, dan obat2an**
+  - Diabters Insipidus: **Pengeluaran urin berlebih. Disebabkan oleh kurangnya ADH. Dapat diatasi dengan spemberian ADH sintetis.**
+  - Batu Ginjal: **Adanya batu (endapan garam kalsium) di dalam rongga ginjal, saluran ginjal, atau kantung kemih. Disebabkan oleh kurangnya cairan yang masuk dalam tibih, kegiatan yang berlebihan, obat2an yang mengandung asam urat. Dapat diatasi dengan operasi.**
+  - Nefritis (Gagal Ginjal): **Kerusakan pada nefron (glomerulus) karena infeksi bakteri. Berujung pada urea masuk dalam darah (uremia) yang menyebabkan penimbunan air di kaki (edema). Dapat diatasi dengan cuci darah, transplansi ginjal.**
+  - Albuminuria: Urin mengandung jumlah protein yang tidak normal.
+- Proses pencucian darah disebut **Dialisis** dan alatnya disebut **Dialiser**
+- Urutan Alat Reproduksi
+  - Pria
+    - **Testes/Testis: Penghasil sperma**
+    - **Epididimis: Saluran untuk mematangkan speram**
+    - **Vas Deferens: Saluran pembawa sperma matang ke Vesikula Seminalis**
+    - **Vesikula Seminalis: Tempat penyimpanan sperma.**
+    - **Uretra: Saluran pembuangan Sperma**
+    - **Kelenjar Reproduksi Prostat: Penghasil cairan semen**
+    - **Kelenjar Reproduksi Cowper: Penghasil larutan Alkali untuk menetralkan asam.**
+    - **Skortum: Mengatur suhu testis**
+  - Wanita
+    - Ovarium: Menghasilkan sel telur dan hormon Progesteron, Esterogen dan Ovum
+    - Oviduk: Saluran telur tempat fertilisasi. Terdapat rambut halis silia
+    - Uterus: Rahim, tempat berkembang embryo
+    - Vagina: Tempat kandungan bayi dan menstruasi
+    - Serviks: Leher Rahim

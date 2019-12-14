@@ -1,0 +1,62 @@
+# Materi Ujian Semester I - Geografi
+---
+
+- Pengertian negara maju dan negara berkembang
+   - Maju: **Negara yang memiliki standar hidup yang tinggi dengan pendapatan per kapita tinggi, pertumbuhan penduduk rendah, serta memiliki perekonomian yang baik**.
+   - Berkembang: **Kebaliakn dari negara maju**.
+- Ciri-ciri negara maju dan negara berkembang
+    - Negara Maju
+        - **Pendapatan per kapita tinggi**
+        - **Angka harapan hidup tinggi**
+        - **Standar kehidupan tinggi**
+        - **Pertumbuhan penduduk kecil**
+        - **Kegiatan ekonomi berbasis perdagangan, industri, dan jasa**
+        - **Sebagian besar penduduk tinggal di perkotaan**
+        - **Mampu mengolah SDA secara optimal**
+        - **Tingkat pendidikan penduduk rata-rata tinggi**
+        - **Angka kematian bayi kecil**
+    - Negara Berkembang
+        - **Pendapatan per kapita rendah**
+        - **Angka harapan hidup rendah**
+        - **Angka kelahiran dan kematian tinggi**
+        - **Tingkat kesehatan rendah**
+        - **Tingkat produktivitas rendah**
+        - **Ketergantungan pada sektor pertanian dan produksi primer**
+        - **Infrastuktur masih terbelakang**
+        - **Belum mampu mengolah SDA dengan baik [?]**
+        - **Ketergantungan dalam hubungan internasional untuk modal pengembangan ekonomi**
+        - Masalah tekanan penduduk yang meliputi:
+     	    - **Tingkat pengangguran dan kemiskinan tinggi**
+     	    - **Beban tanggungan tinggi**
+     	    - **Mudah terpengaruh negara lain**
+- Menentukan Kualitas Penduduk: **Sama dengan Indikator**.
+- Negara Industri Baru di Amerika Selatan: **Brasil**
+- Negara maju di masing2 benua
+    - Eropa: **Belanda, Jerman, Prancis**
+    - Afrika: **Mesir, Tunisia, Gabon**
+    - Asia: **Jepang, Singapura, Hong Kong**
+    - Amerika: **Kanada, Amerika Serikat**
+    - Australia: **Australia, Selandia Baru**
+- Negara berkembang di masing2 benua
+    - Eropa: **Bulgaria, Ukraina, Turki, Serbia**
+    - Afrika: **Madagaskar, Nigeria, Zimbabwe**
+    - Asia: **Indonesia, India, Cina, Palestina**
+    - Amerika: **Argentina, Brazil, Venezuela**
+    - Australia: **Nauru, Samoa, Solomon**
+- Negara Maju di belahan bumi
+  - Selatan: **Australia dan Selandia Baru**
+  - Utara: **Perancis, Jerman, Inggris, Spanyol, Swedia, Jepang, Hongkong dan Korea Selatan**
+- Komponen peta dan fungsinya:
+  - Judul: **Memberikan informasi tentang isi peta**
+  - Garis Tepi (*border*): **Garis yang terletak di bagian tepi peta dan ujung-ujung tiap garis bertemu dengan ujung garis yang berdekatan.**
+  - Skala:**Menunjukkan perbandingan antara jarak di peta dan jarak sebenarnya dengan angka**
+  - Orientasi (Arah Mata Angin): **Menunjukan arah seningga pengguna peta bisa menentukan arah saat membaca peta**
+  - Garis Astronomis: **Garis khayal yang dibuat dan digunakan untuk mempermudah menentukan posisi suatu tempat di muka bumi**
+  - Lettering (Tata Penulisan): **Tulisan yang membedakan objek-objek geografi yang ditampilkan pada peta**
+  - Warna: **Menyimpan berbagai informasi berkaitan dengan permukaan lokasi yang digambarkan di peta**
+  - Simbol: **Tanda konvensional yang terdapat di dalam peta untuk mewakili keadaan sebenarnya yang ada di lapangan**
+  - Legenda (Keterangan): **Berisi keterangan simbol-simbol yang digunakan pada peta tersebut**
+  - Inset: **Memperjelas posisi suatu wilayah yang ada di peta**
+- Arti simbol-simbol pada peta: ![Image](https://i.ibb.co/Lg9TkJ6/Simbol-pada-Peta.jpg)
+- Topografi / Peta Kontur adalah **peta yang menggunakan garis kontur**
+- 
