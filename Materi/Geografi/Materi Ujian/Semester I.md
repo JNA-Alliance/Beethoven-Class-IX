@@ -57,6 +57,31 @@
   - Simbol: **Tanda konvensional yang terdapat di dalam peta untuk mewakili keadaan sebenarnya yang ada di lapangan**
   - Legenda (Keterangan): **Berisi keterangan simbol-simbol yang digunakan pada peta tersebut**
   - Inset: **Memperjelas posisi suatu wilayah yang ada di peta**
+- Gambar Komponen Peta: ![Image](https://i.ibb.co/FbJqdwB/komponen-kelengkapan-peta.jpg)
 - Arti simbol-simbol pada peta: ![Image](https://i.ibb.co/Lg9TkJ6/Simbol-pada-Peta.jpg)
 - Topografi / Peta Kontur adalah **peta yang menggunakan garis kontur**
-- 
+- Jenis Peta berdasarkan bentuknya:
+  - Datar: **Dibuat pada bidang datar, bisa berupa kertas, kain, kanvas, papan, dan sebagainya**
+  - Timbul: **Dibuat secara 3 dimensi sehingga terlihat mirip dengan bentuk permukaan bumi yang sebenarnya**
+  - Digital: **Dibuat menggunakan bantuan komputer secara digital. Jenis peta ini tidak nyata dan bisa dilihat lewat perangkat teknologi seperti hp atau komputer**
+- Jenis Peta berdasarkan isinya:
+  - Peta Umum: **Menggambarkan sebagian atau keseluruhan permukaan bumi secara umum dan juga menunjukkan kenampakan alam dan buatan manusia. Terbagi atas 3 kategori yaitu Dunia, Korografi, dan Topografi. Dimana Korografi menjelaskan seluruh atau sebagian permukaan dengan skala kecil**.
+  - Peta Khusus (Tematik): **Menggambarkan dan menjelaskan tentang suatu aspek atau gejala khusus pada permukaan bumi di wilayah tertentu**
+- Pola Pemukiman Penduduk & Daerah2nya & Contoh:
+  - Linier (Pola memanjang): **Terbentuk di bentang alam rendah dan disebabkan karena objek geografi. Contoh: Sepanjang aliran sungai, jalan, atau sepanjang garis pantai**
+  - Terpusat: **Terbentuk di pegunungan. Contoh: Sekitar gunung atau sumber-sumber air**
+  - Tersebar: **Terbentuk di wilayah kapur. Contoh: Daerah yang kurang subur, sulit sumber airnya, atau di daerah dengan kondisi geografis yang kurang menguntungkan**
+- Batas Wilayah Asia Tenggara
+  - Utara: **Cina**
+  - Barat: **India dan Bangladesh**
+  - Selatan: **Australia**
+  - Timur: **Papua Nugini**
+- Negara-negara di Asia Tenggara
+  - Kepulauan: **Brunei, Filipina, Indonesia, Malaysia, Singapura, Timor Leste**
+  - Daratan: **Kamboja, Laos, Myanmar, Thailand, Vietnam**
+- Iklim di Asia Tenggara: **Tropis. Dipengaruhi oleh iklim monsun. Kecuali Myanmar**.
+- Agama & Suku mayoritas di:
+  - Singapura: **Buddha, Cina**
+  - Malaysia: **Islam, Melayu**
+  - Filipina: **Katolik Roma, Melayu**
+  - Indonesia: **Islam, Jawa**
