@@ -1,0 +1,31 @@
+# Materi Ujian Semester I - TIK
+---
+
+- Menyaring dara yang masuk dan keluar adalah tugas **Firewall**
+- Data yang dikirim oleh sebuah situs dalam bentuk teks dan diterima oleh browser disebut **Cookies**
+- Teknik penipuan dengan memalsukan alamat IP adalah **Spoofing**
+- Spyware adalah program yang berfungsi untuk **memata-matai aktivitas**
+- Orang yang memanfaatkan internet untuk mencari korban remaja sebagai tindak kekerasan dan penculikan adalah ciri-ciri **Predator Online**
+- Kabel yang memiliki pembungkus pada tiap2 pasangan kabelnya adalah **STP (*Shielded Twisted Pair*)**
+- Kabel Fiber Optik merupakan kabel yang paling cepat mengirimkan data karena data yang dikirim berupa **Impuls Cahaya**
+- Kejahatan di Internet
+  - Eavesdropping: ***Real-time communication interception***
+  - Snooping: **Mirip Eavesdropping namun tidak terbatas pada usaha mengakses data pada saat data tersebut dikirimkan**
+  - Spoofing: **Menyusup ke sebuah jaringan dengan cara memalsukan alamat IP**
+  - Email Spoofing: **Memalsukan header email**
+  - Phishing: **Menggunakan *Social Engineering***
+  - Pharming: **Membajak DNS**
+- Perangkat berikut yang berfungsi untuk menghubungkan dua LAN adalah **Bridge**
+- Router adalah **perangkat yang berfungsi untuk mengisolasi arus data yang datang dari satu LAN dengan yang lainnya**
+- Intranet merupakan **jaringan yang menggunakan IP namun hanya dapat diakses oleh kalangan terbatas**
+- Protokol jaringan yang berfungsi untuk mengirimkan dan menerima data dari media fisik adalah **Network Interface Layer**
+- Protokol yana gberfungsi untuk mengadakan komunikasi antara dua host adalah **Transport Layer**
+- Data hasil enkripsi disebut **Cipher teks**
+- Teknik pengamanan data yang dilakukan dengan cara menyandikan data-data yang dikirim disebut **Kriptografi**
+- Perangkat yang memungkinkan dua buah komputer saling berkomunikasi adalah **LAN Card**
+- Tolak ukur yang digunakan untuk mengukur kemampuan harddisk adalah **Ukurannya (Kapasitas)**
+- Bagian yang berbentuk piringan magnet yang mampu menyimpan data dinamakan **Platter**
+- Koneksi jaringan internet yang biasanya digunakan diperkantoran dan warnet adalah **LAN**
+- Dilihat dari areanya jaringan komputer yang ada di sekolah termasuk jenis jaringan **LAN**
+- Tanggung jawab pengguna layanan internet banking terhadap keamanan data adalah **Tidak menggunakan sembarangan komputer untuk mengakses layanan**
+- Penyalahgunaan kartu kredit disebut **Carding**
