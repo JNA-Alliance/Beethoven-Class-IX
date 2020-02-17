@@ -1,13 +1,34 @@
 # Bahan Ujian Mid II - Science
 ---
 
-**Definitions**
-- Proton: Positively charged particles found inside the nucleus of an atom.
-- Positive Charge: One type of electric charge.
-- Neutron: Particles found in the nucleus of an atom that have no electronic charge.
-- Electron: A negatively charged particle found surounding the nucleus of an atom.
-- Electronic Structure: The arrangement of electrons in the shells around the nucleus of an atom.
-- Orbit: Electronic orbits are the paths followed by electrons around the nucleus of an atom.
-- Periodic Table: A table of all the elements.
-- Nucleus (Atom): The centre of an atom formed from protons and neutrons.
-- 
+- Proton: **Positively charged particles found inside the nucleus of an atom**.
+- Positive Charge: **One type of electric charge**.
+- Neutron: **Particles found in the nucleus of an atom that have no electronic charge**.
+- Electron: **A negatively charged particle found surounding the nucleus of an atom**.
+- Electronic Structure: **The arrangement of electrons in the shells around the nucleus of an atom**.
+- Orbit: **Electronic orbits are the paths followed by electrons around the nucleus of an atom**.
+- Periodic Table: **A table of all the elements**.
+- Nucleus (Atom): **The centre of an atom formed from protons and neutrons**.
+- Noble Gases: **The elements found in Group 8 of the Periodic Table**.
+- Atomic Number: **The number of protons in an atom; each type of atom has a unique atomic number**.
+- Mass Number: **The number of protons and neutrons in an atom added together**.
+- Shells: **Electronic shells are layers around the nucleus of an atom where the electrons are arranged; the electrons move about within their shells**.
+- Inert: **Does not react**.
+- Trends In Group 1:
+  - Structure: **Outer shells only have one electrons; The shell increases by one as you go down the group**.
+  - Behaviour: **Reacts more vigorously with water as you go down the group**.
+- Counting Proton, Neutron, and Electrons
+  - Atomic number: **Number of Protons; Equal to number of Electrons**.
+  - Mass number: **Protons + Neutrons**
+  - Calculate Neutrons: **Mass Number - Atomic Number**
+- Name of the gases in Group 8:
+  - **Helium (He)**
+  - **Neon (Ne)**
+  - **Argon (Ar)**
+  - **Krypton (Kr)**
+  - **Xenon (Xe)**
+  - **Radon (Rn)**
+- Group 1 Elements:
+  - **Lithium (Li)**
+  - **Sodium (Na)**
+  - **Potassium (K)**
