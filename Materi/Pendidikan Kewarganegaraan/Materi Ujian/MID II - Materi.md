@@ -1,0 +1,103 @@
+# Bahan Ujian MID II - PKN
+---
+
+# Otonomi Daerah
+- Otonomi daerah adalah **hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai peraturan perundang-undangan**. (UU No. 32 tahun 2004)
+- Faktor-faktor yang mempengaruhi otonomi daerah:
+  - **Manusia Pelaksana**: **Semangat kerja, moral, pengetahuan**
+  - **Keuangan**: **Modal**
+  - **Peralatan**: **Teknologi**
+  - **Organisasi dan Manajemen**: **Perencanaan, pelaksanaan, *leadership***
+- Landasan Hukum otonomi daerah:
+  - **UU No. 32 Tahun 2004**: **Pemerintahan Daerah**.
+  - **UU No. 33 Tahun 2004**: **Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintah Daerah**.
+- Bidang yang tidak dicakup:
+  - **Politik luar negeri**
+  - **Pertahanan keamanan**
+  - **Peradilan**
+  - **Moneter dan fiskal**
+  - **Agama**
+- Prinsip otonomi daerah:
+  - **Demokrasi**
+  - **Keadilan**
+  - **Pemerataan**
+  - **Potensi dan Keanekaragaman**
+- Prinsip Pelaksanaan otonomi daerah:
+  - **Seluas-luasnya**: **Daerah dapat mengatur semua bidang kecuali yang tidak dicakup**
+  - **Nyata**: **Daerah memiliki kewenangan dalam menjalankan pemerintahan berdasarkan tugas, wewenang, dan kewajiban yang secara nyata telah ada**
+  - **Bertanggungjawab**: **Harus sesuai dengan maksud dan tujuan dari pemberian otonomi**
+- Perangkat Pelaksana otonomi daerah:
+  - **Kepala Daerah Provinsi/Gubernur**
+  - **Bupati & Wakilnya**
+  - **Unit2 Teknis/Dinas**
+- Partisipasi Masyarakat, tahap:
+  - **Perencanaan**: **Memberikan masukan**
+  - **Pelaksanaan**: **Ikut serta dalam kegiatan**
+  - **Evaluasi**: **Memelihara yang telah dibangun**
+- **>> LIHAT HAFALAN UNTUK HAK DAN KEWAJIBAN OTONOMI DAERAH <<**
+
+# Globalisasi
+- Globalisasi adalah **proses integrasi internasional yang terjadi karena pertukaran pandangan dunia, produk pemikiran, dan aspek kebudayaan lainnya.**
+- Globalisasi berasal dari kata ***globe* yang berarti bola dunia.** 
+- Globalisasi dapat diartikan sebagai **Tindakan yang mendunia.**
+- Globalisasi terjadi akibat **perkembangan kebutuhan dan kemajuan ilmu pengetahuan dan teknologi (IPTEK)**.
+- Globalisasi adalah **konsekuensi dari kemajuan yang diciptakan oleh manusia itu sendiri.**
+- Indonesia menganut politik luar negeri **Bebas Aktif**. Artinya **tidak memihak kepada salah satu blok atau persekutuan bangsa (Bebas) dan Berusaha untuk ikut secara aktif dalam memelihara perdamaian dan meredakan ketegangan internasional (Aktif)**.
+- Definisi Globalisasi oleh Lodge: **Sebuah proses yang dikuasai oleh aliran informasi, perdagangan, dan manusia yang mengglobal yang dipercepat oleh perkembangan teknologi.**
+- Kennedy dan Cohen menyebutkan bahwa **Transformasi yang terjadi saat ini telah membawa kita pada *globalisme***
+- Globalisme adalah **sebuah kesadaran dan pemahaman baru bahwa dunia adalah satu.**
+- Bentuk-bentuk Globalisasi
+  - Bidang Ekonomi:
+    - **Munculnya perusahaan multinasional yang memaksimalkan laba dengan mencari lokasi produksi yang paling efisien atau murah.**
+  - Bidang Budaya:
+    - **Munculnya berbagai peralatan teknologi (TV, Radio, Internet).**
+    - **Meningkatnya Mobilitas.**
+    - **Terjadi difusi dan asimilasi. Nilai2 dan Norma2 budaya dapat membaur dengan mudah.**
+- Dampak Globalisasi dapat dilihat dalam aspek: 
+  - **Gaya hidup: Meningkatnya mobilitas barang/produk dari satu tempat ke tempat lain**.
+  - **Makanan: Banyak Restoran asing yang buka di Indonesia**.
+  - **Pakaian: Gaya/Desain busana dipengaruhi negara lain**.
+  - **Komunikasi: Orang dapat dengan mudah berkomunikasi**.
+  - **Transportasi: Dapat pergi jauh dengan mudah**.
+  - **Nilai-nilai: Interaksi antar budaya dapat dengan mudah terjadi**.
+- Dampak Globalisasi di bidang
+  - Politik (Luas):
+    - **Masuk dan tersebarnya nilai2 demokrasi dan kesadaran politik**
+    - **Transparansi, akuntabilitas, dan profesionalisme mendapat sorotan dari masyarakat**
+  - Politik (Positif):
+    - **Masyarakat dapat menggunakan hak politiknya dengan bebas**
+    - **HAM semakin diakui**
+  - Politik (Negatif):
+    - **Semangan musyawarah semakin ditinggalkan**
+    - **Masyarakat lebih mementingkan kepentingan kelompok daripada umum**
+  - Ekonomi (Luas):
+    - **Sektor2 ekonomi yang diberi subsidi semakin berkurang**
+    - **Kompetisi produk dan harga semakin tinggi**
+  - Ekonomi (Positif):
+    - **Taraf hidup dan pendapatan per kapita meningkat**
+    - **Tersedia lapangan pekerjaan**
+    - **Kualitas SDM meningkat**
+    - **Jumlah produksi barang industri memingkat**
+  - Ekonomi (Negatif):
+    - **Munculnya kelas2 ekonomi (buruh, majikan)**
+  - Sosial Budaya (Luas):
+    - **Masuknya nilai2 asing secara mudah**
+    - **Semakin memudarnya apresiasi terhadap budaya lokal**
+    - **Semakin lunturnya semangat gotong royong, solidaritas, kepedulian**
+  - Sosial Budaya (Positif):
+    - **Banyak siswa menggunakan komputer untuk belakjar**
+    - **Banyak bangunan yang bergaya Eropa**
+    - **Pengobatan beralih dari cara tradisional ke cara modern**
+  - Sosial Budaya (Negatif):
+    - **Pembelajaran yang berbasis kesadaran terhadap keseimbangan lingkungan hidup semakin ditinggalkan**
+    - **Semakin sedikit yang melestarikan musik tradisional**
+  - Hukum, Pertahanan, dan Keamanan (Luas):
+    - **Menguatnya regulasi hukum dan pembuatan undang2**
+    - **Menguatnya tuntutan terhadap tugas penegak hukum yang lebih profesional**
+- Arti Penting Globablisasi bagi Indonesia:
+  - Ekonomi: **Membuka jaringan pasar internasional bagi hasil produksi dalam negeri**.
+  - Komunikasi: **Penyampaian informasi secara cepat dari dunia ke ID dan dari ID ke dunia**.
+  - Pembangunan: **Masyarakat dapat menggunakan teknologi modern**.
+  - Politik: **Memungkinkan ID menjadi bagian dari perkembangan politik global**.
+  - Pendidikan: **Menyamaratakan penyebaran ilmu pengetahuan di seluruh ID dengan cepat**.
+- Indonesia terlibat dalam: **ASEAN, PBB, OPEC, APEC, FIFA, dan IBF**
