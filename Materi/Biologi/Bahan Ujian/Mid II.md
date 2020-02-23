@@ -1,0 +1,52 @@
+# Bahan Ujian MID II - Biologi
+---
+
+- Adaptasi: **Menyesuaikan diri terhadap lingkungan**.
+- Seleksi Alam: **Pemilihan yang dilakukan oleh alam terhadap makhluk hidup yang dapat beradaptasi**.
+- Macam-macam adaptasi:
+  - Morfologi
+    - **Penyesuaian bentuk tubuh suatu organisme terhadap lingkungannya**.
+    - Contoh:
+      - **Bentuh paruh dan kaki burung**. Teradaptasi sesuai jenis makanannya.
+      - **Tipe mulut serangga**. Teradaptasi sesuai jenis makannya.
+      - **Bentuk tubuh hewan laut**. Teradaptasi agar dapat bergerak dengan mudah.
+      - **Bentuk gigi hewan**. Teradaptasi sesuai jenis makanannya.
+  - Fisiologi
+    - **Penyesuaian fungsi kerja alat2 tubuh suatu organisme terhadap lingkungannya**.
+    - Contoh:
+      - **Jumlah sel darah merah**. Orang yang tinggal di tataran tinggi cenderung memiliki jumlah sel darah merah lebih banyak.
+      - **Pengeluaran urin pada ikan**. Untuk menjaga osmoregulasi.
+      - **Kecepatan metabolisme**. Kecepatan metabolisme hewan berdarah pasnas di daerah dingin akan meningkat.
+      - **Enzim Selulase dalam saluran pencernaan *Teredo Navalis* dan hewan memamah biak**. Untuk mencerna kayu (Teredo navalis) dan mencerna selulosa yang terdapat pada sel-sel tumbuhan (Memamah biak).
+  - Tingkah Laku
+    - **Penyesuaian tingkah laku suatu organisme terhadap lingkungannya**.
+    - Contoh:
+      - **Munculnya lumba2 atau paus ke permukaan air untuk menghirup udara**.
+      - **Mimikri**. Bunglon dapat mengubah warna kulit tubuhnya sesuai dengan tempat ia berada.
+      - **Pengeluaran cairan tinta**. Cumi2 dan gurita akan mengeluarkan cairan tinta dan berenang menjauh bila merasa terancam.
+      - **Penggulungan Tubuh**. Hewan kaki seribu akan menggulungkan tubuhnya bila merasa terancam. Untuk melindungi tubuhnya yang lunak.
+- Ciri2 adaptasi morfologi pada:
+  - Tumbuhan Xerofit: **Batang tebal berlapis zat semacam lilin. Daunnya relatif sempit dan jumlahnya sangat sedikit atau berubah bentuk menjadi selaput atau duri**.
+  - Tumbuhan Hidrofit: **(Kangkung, engeng gondok, paku air, teratai) Memiliki ruang2 udara, memiliki lapisan kutikula yang tipis dan mudah ditembus air**.
+  - Tumbuhan Higrofit: **Meiliki daun yang lebar untuk mempercepat penguapan air**.
+- Alasan perbedaan urine ikan air tawar dengan ikan air asin: **Karena tekanan garam di air tawar lebih rendah daripada dalam ikan, maka garam akan terserap keluar. Untuk mencegah kekurangan garam, ikan air tawar akan sedikit minum dan mengeluarkan urin Hypotonic (Lebih banyak air). Sedangkan ikan air laut memiliki kadar garam yang rendah dibandingkan dengan air laut. Sehingga garam laut akan masuk kedalam tubuh ikan dan air akan keluar. Untuk menjaga osmoregulasi, ikan air laut banyak minum dan mengeluarkan urin Hypertonic (Lebih banyak garam dan sedikit air)**.
+- Alasan perbedaan jumlah sel darah merah orang yang tinggal di daerah pegunungan dan dataran rendah: **Kadar oksigen di dataran tinggi lebih rendah sehingga tubuh membentuk sel darah merah lebih banyak untuk mengikat oksigen lebih banyak**.
+- Perkembangbiakan Vegetatif:
+  - **Membelah diri**. Protista *Amoeba* dan *Paramecium* membelah diri.
+  - **Membentuk tunas**. Tanaman pisang atau bambu.
+  - **Membentuk spora**. Jamur, tumbuhan lumut, dan tumbuhan paku membentuk spora.
+  - **Hydra (Hewan)**. Melakukan perkembangbiakan secara aseksual dengan membentuk tunas (kuncup)
+- Tipe Mulut Serangga
+  - **Menggigit dan mengunyah**. Belalang, semut.
+  - **Menusuk dan menghisap**. Nyamuk.
+  - **Menghisap**. Kupu-kupu dan lalat.
+- Generatif: **Perkembangbiakan secara seksual (Dengan perkawinan, penyatuan sel kelamin jantan dan betina)**.
+- Vegetatif: **Perkembangbiakan secara aseksual (Tanpa perkawinan, memiliki sifat 100% sama dengan induknya)**.
+- Partenogenesis: **Proses reproduksi aseksual di mana betina memproduksi sel telur yang berkembang tanpa melalui proses fertilisasi**. (Kutu daun, kadal, lebah, komodo, dll.).
+- Sifat Partenogenesis:
+  - Fakultatif: **Dapat berubah dari seksual ke aseksual**
+  - Obligat: **Sepenuhnya aseksual**
+- Hasil Partenogenesis: 
+  - Full Clone: **100% Mirip Parental**
+  - Half Clone: **Melibatkan meiosis. Awalnya haploid kemudian berkembang menjadi diploid**.
+- Paruh Burung: ![Paruh Burung](https://id-static.z-dn.net/files/d01/5150f7e5072b2157a1ffb1953f3e0baa.jpg)

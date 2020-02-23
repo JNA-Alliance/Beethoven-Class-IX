@@ -67,3 +67,12 @@
   - **Liberalisasi perdagangan (perdagangan bebas) untuk meningkatkan volume perdagangan dunia sehingga produksi meningkat**.
   - **Memperjuangkan penurunan bahkan penghapusan hambatan2 perdagangan, termasuk tarif bea masuk (*tariff barrier*) maupun hambatan lainnya (*non-tariff barrier*)**.
   - **Mengatur perdagangan jasa yang mencakup tentang *Intellectual Property Rights* (Hak Kekayaan Intelektual HAKI) dan investasi**
+- Alasan Belanda tidak ikut dalam CGI (*Consulative Group on Indonesia*): **Terlalu banyak ikut campur dalam masalah politik Indonesia**.
+- Contoh kerjasama ekonomi internasional berdasarkan:
+  - Lapangan Usaha: **Kerjasama ekonomi ini dilatarbelakangi oleh kesamaan bidang usaha (negara-negara yang memiliki lapangan usaha yang sama pada sumber minyak bumi membuat OPEC)**
+  - Tujuan: **Kerjasama ekonomi ini dilatarbelakangi oleh tujuan yang sama. Sejarah para buruh atau tenaga kerja yang memperjuangkan hak-haknya melahirkan organisasi ILO (International Labour Organization) yang memperjuangkan tentang ketenagakerjaan para anggotanya**
+- Contoh kerjasama ASEAN dalam bidang politik:
+  1. **Pengiriman duta dan konsulat ke negara lain yang merupakan negara ASEAN. Mading - masing negara ASEAN saling mengirimkan duta dan konsulat sebagai perwakilan dari negara asal nya.**
+  2. **Kerjasama kawasan yang damai, bebas, dan netral. Suatu kerjasama yang dilakukan dalam melakukan kerjasama dengan negara lain secara bebas dan memenuhi persyaratan yang ditentukan.**
+  3. **Perjanjian ekstradisi antar negara, dimana suatu tersangka atau pelaku kejahatan yang melarikan diri dari negaranya ke negara lain. Negara tersebut akan ikut serta dalam penangkapan tersangka tersebut dan akan mengembalikan ke negara asalnya untuk diproses seseuai hukum yang berlaku.**
+  4. **Perjanjian kawasan bebas nuklir, yaitu kerjasama politik yang melarang dengan adanya nuklir di kawasan negara ASEAN.**
