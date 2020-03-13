@@ -1,0 +1,26 @@
+# Karakteristik Novel Angkatan 20-30an
+---
+
+- Ciri2 Angkatan Balai Pustaka (20-an):
+  - **Menggambarkan tema pertentangan paham antara kaum muda dan kaum tua, soal pertentangan adat, soal kawin paksa, permad**.uan, dll.
+  - **Soal kebangsaan masih belum mengemuka, masih bersifat kedaerahan**.
+  - **Puisinya berupa syair dan pantun**.
+  - **Alirannya bercorak romantik**.
+  - **Gaya bahasa dalam novel lebih sering menggunakan syair, pantun, dan pepatah**.
+  - **Isinya bersifat dan tersusun dan didaktis (mendidik)**.
+- Ciri2 Angkatan Pujangga Baru (30-an):
+  - **Menggambarkan pertentangan kehidupan orang2 kota, soal emansipasi wanita**.
+  - **Hasil karyanya mulai bercorak kebangsaan, memuat soal kebangunan bangsa**.
+  - **Puisinya bukan pantun lagi, muncul bentuk soneta dari Barat**.
+  - **Isinya masih mirip dengan angkatan 20-an**.
+  - **Masih bercorak romantik**.
+  - **Gaya bahasanya tidak menggunakan pepatah, bahasa dalam novel lebih sering menggunakan ungkapan**.
+- Persamaan Novel 20-an dengan 30-an: S**angat kental dengan nilai2 budaya. Novel yang terbit pada era ini disebut novel Angkatan Balai Pustaka, atau Angkatan Siti Nurbaya (20-an), dan Angkatan Pujangga Baru (30-an)**.
+- Karakteristik novel masa kini:
+  - **Lahir dari masyarakat modern yang sudah dipengaruhi budaya barat/asing**.
+  - **Tema yang diangkat telah mendapat pengaruh politik, kebudayaan akar tradisi, sejarah dan psikologi**.
+  - **Menggunakan Bahasa Indonesia yang kadang dipengaruhi Bahasa Inggris**.
+  - **Cara bercerita dalam karya sastra modern, singkat, padat, dan tegas**.
+- Sastrawan angkatan 20-an sampai 30-an
+  - **20-an (Pujangga Lama/Balai Pustaka): Marah Rusli (Siti Nurbaya)**.
+  - **30-an (Pujangga Baru): Sultan Takdir, Alisjabawa (Layar Terkembang)**.

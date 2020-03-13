@@ -1,5 +1,6 @@
 # Istilah di Bidang Komunikasi
 ---
+
 - Iklan: **Berita/Pesan untuk mendorong/membujuk khalayak ramai agar tertarik pada barang dan jasa yang ditawarkan**.
 - Poster: **Plakat yang dipasang di tempat umum**.
 - Spanduk: **Kain pentang yang berisi slogan, propagandda, berita yang perlu diketahui umum**.

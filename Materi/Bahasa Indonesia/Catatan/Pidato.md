@@ -1,5 +1,6 @@
 # Pidato
 ---
+
 - Struktur Pidato:
     1. Pembuka:
         - **Salam Pembuka**
