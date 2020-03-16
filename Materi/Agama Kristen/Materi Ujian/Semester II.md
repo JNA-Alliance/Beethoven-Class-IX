@@ -108,3 +108,49 @@
    - Nazar: **Melaksanakan tugas yang diberikan Allah, pergi ke Niniwe dan memperingati mereka**
 6. Arti Nazar: **Janji dengan Tuhan yang harus ditepati**
 7. Mengapa Tuhan tidak menunggang balikkan kota Niniwe: **Karena warga Niniwe bertobat, berubah menjadi baik, berpuasa, bahkan Raja Niniwe pun ikut bertobat**
+
+# Gereja Yang Bersaksi
+- Martir pertama: **Stephanus**
+- Martir rasul pertama: **Yakobus**
+- Yakus anak **Zebedus** dan **Salome**, kakak rasul **Yohanes**.
+- Yakobus dihukum mati sekitar tahun **44M** oleh perintah **Raja Herodes Agrippa I dari Yudea**.
+- Yang menuliskan cerita Yakobus: **Clemens Alexandrinus**.
+- Yang dieksekusi bersama dengan Yakobus: **Timon dan Parmenas** @ Filipi dan Makedonia.
+- Andreas adalah saudara **Petrus**
+- Andreas menjadi martir di Edessa, disalibkan pada kayu salib berbentuk X (Salib Santo Andreas)
+- Rasul Petrus melihat penampakan Kristus yang ajaib. Ketika Petrus sudah tua, Nero merencanakan untuk menghukum mati Petrus. Petrus disalibkan denhan posisi terbalik.
+- Tomas memberitakan Injil ke Persia, Parthia, dan India. di India, ia disiksa oleh orang kafir yang marah, tubuhnya ditusuk tombak dan dilemparkan ke dalam nyala api oven.
+- Rasul Yohanes dipercaya mendirikan 7 jemaat di Kitab Wahyu.
+- Rasul Yohanes ditangkap di Efesus dan dibawa ke Roma tempat ia dilemparkan ke dalam tempat penggorengan yang diisi minyak mendidih, tetapi ia tidak terluka. Akibatnya, ia dilepaskan dan dibuang oleh Kaisar Domitian ke Pulau Patmos, tempat ia menulis kitab Wahyu.
+
+# Gereja Yang Melayani
+- Kata 'melayani' berasal dari bahasa Yunani yaitu *diakonia* yang berarti memberi pertolongan atau pelayanan
+- Kata kerja: **Diakonein** (melayani)
+- Kata sifat: **Diakonia** (pelayanan)
+- Kata benda: **Diakonos** (pelayan) 
+- Menurut KBBI, Melayani adalah **membantu menyiapkan (mengurus) apa2 yang diperlukan seseorang;meladeni**.
+- Bentuk pelayanan dalam gereja
+  - **Kariatif**:
+    Pemberian berupa materi untuk kebutuhan fisik dan jasmani (membagi makanan, obat, dll. kepada yang membutuhkan)
+  - **Reformatif/Pembangunan**:
+    Penyediaan sarana pengobatan, panti asuhan, sarana pendidikan, penyediaan lapangan pekerjaan, dll.
+    Juga bertugas untuk memperhatikan masalah2 sosial seperti penyalahgunaan narkoba, penebangan pohon secara liar, jual beli manusia, dll.
+  - **Transformatif**:
+    Bentuk kepedulian gereja kepada masyarakat dengan menunjukan tanda2 kehadiran kerajaan Allah di bumi.
+- Pemilihan pelayanan diakonia/diaken haruslah:
+  - Orang baik
+  - Orang yang penuh roh
+  - Orang yang berhikmat
+
+# Gereja Yang Bersekutu
+- 10 Persekutuan: **Retreat, Bible Camp, KKR, Ibadah Minggu, Persekutuan Doa, Ibadah Remaja, Persekutuan Kaum Pria, Persekutuan Kaum Wanita, Sekolah Minggu, Ibadah Natal, Seminar Rohani**
+- Kata 'koinonia' berasal dari kata 'koinon' yang memiliki arti persekutuan, bersekutu.
+- Menurut KBBI, persekutuan adalah **hal bersekutu, persatuan, perhimpunan, ikatan diantara orang2 yang sama kepentingannya**.
+- Persekutuan dilandaskan atas **kasih Kristus yang sejati sehingga tidak mengutamakan kepentingan pribadi, melainkan kepentingan bersama**.
+- Dalam **Kisah Para Rasul 2, orang2 percaya terbentuk karena merasa saling membutuhkan dalam membangun iman kepada Kristus**. Bahkan dalam **Yoh. 15:16**, Tuhan Yesus tegas mengatakan bahwa **"Bukan kamu yang memilih Aku, tetapi Akulah yang memilih kamu"**.
+- Nasihat Rasul Paulus: **Janganlah kita menjauhkan diri dari pertemuan2 ibadah kita, seperti yang dibiasakan beberapa orang, tetapi marilah kita saling menasihati, dan semakin giat melakukannya menjelang hari Tuhan yang mendekat. (Ibrani 10:25)**
+- Ciri2 Gereja yang bersekutu dengan Allah:
+  - Mengasihi Kristus
+  - Mengasihi sesama
+  - Mempelajari dan melakukan forman Tuhan
+  - Saling menasihati, menopang, dan mendoakan
