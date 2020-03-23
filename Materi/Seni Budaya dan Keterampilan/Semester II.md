@@ -1,7 +1,7 @@
 # Materi Ujian Semester II - SBK
 ---
 
-1. Menggambar flora, fauna, dan benda alam sama halnya dengan menggambar bentuk yang objeknya **Tumbuhan, Binatang dan manusia**.
+1. Menggambar flora, fauna, dan benda alam sama halnya dengan menggambar bentuk yang objeknya **Tumbuhan, Binatang dan benda**.
 2. Gambar berikut ini merupakan bentuk dasar benda yang disebut **tabung**.
 3. Gambar berikut merupakan pola tanda birama **3/4**.
 4. Tanda musik yang terdapat pada garis paranada berikut disebut **G Clef**.
@@ -13,10 +13,10 @@
 10. Media batik terdiri dari **Kain, canting, malam, tungku/kompor**.
 11. Rana atau Shutter bagian kamera yang terletak di antara **Lensa dan tempat film**.
 12. Siapakah komponis lagu keroncong **Gesang Martohartono, Maladi, Mardjo Kahar, Budiman B.J, S. Padimin, Ismai Marzuki**.
-13. Alat musik yang menjadi salah satu bukti majapahit pernah menguasai daerah seperti kalimantan, sunda kecil, dan irian jaya adalah ****
+13. Alat musik yang menjadi salah satu bukti majapahit pernah menguasai daerah seperti kalimantan, sunda kecil, dan irian jaya adalah **gong**
 14. Pencipta lagu bengawan solo **Gesang**
 15. Komponis lagi perjuangan, klasik, dan seriosa adalah **C. Simajuntak**
-16. Awal musik keroncong lahir di daerah **Malaka**
+16. Awal musik keroncong lahir di daerah **Malaka -> Jakarta -> Solo**
 17. Musik keroncong berkembang di kota solo dikarenakan adanya **penyesuaian dengan orang Jawa (melambat); Pem-”pribumi”-an keroncong menjadikannya seni campuran**.
 18. Menurut kegunaannya, karya seni rupa dibedakan menjadi dua **Murni dan Terapan**
 19. Seni rupa murni yang berisi nilai-nilai budaya daerah tertentu disebut **Seni Rupa Murni Daerah**
