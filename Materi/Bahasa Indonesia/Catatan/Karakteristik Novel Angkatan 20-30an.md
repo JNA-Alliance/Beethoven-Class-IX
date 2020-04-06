@@ -2,7 +2,7 @@
 ---
 
 - Ciri2 Angkatan Balai Pustaka (20-an):
-  - **Menggambarkan tema pertentangan paham antara kaum muda dan kaum tua, soal pertentangan adat, soal kawin paksa, permad**.uan, dll.
+  - **Menggambarkan tema pertentangan paham antara kaum muda dan kaum tua, soal pertentangan adat, soal kawin paksa, permad.uan, dll.**
   - **Soal kebangsaan masih belum mengemuka, masih bersifat kedaerahan**.
   - **Puisinya berupa syair dan pantun**.
   - **Alirannya bercorak romantik**.
