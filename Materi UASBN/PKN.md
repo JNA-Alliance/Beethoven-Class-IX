@@ -1,0 +1,241 @@
+# Bahan Ujian UASBN - PKN
+---
+
+- Negara adalah **kelompok orang yang mempunyai kekuasaan untuk mengatur hubungan, menyelenggarakan ketertiban, serta menggenapkan tujuan2 bersama**.
+- Unsur-unsur:
+  - **Rakyat**, dibagi:
+    - **Penduduk**: Menetap, punya KTP.
+    - **Bukan Penduduk**: Sementara, tidak punya KTP.
+    - **Warga Negara**: Anggota dari negara (warga), punya hak dan kewajiban (pemilu)
+    - **Bukan Warga Negara**: Bukan anggota dari negara, WNA.
+  - **Wilayah**
+  - **Pemerintah yang berdaulat**
+  - **Pengakuan negara lain**
+- Wilayah negara terbagi atas
+  - **Udara**: UU No. 20, 1982, Batas 35.761km.
+  - **Laut**
+    - **Pandangan:**
+        - ***Res Comunis***: Lautan adalah milik bersama masyarakat dunia. Tidak dapat dimiliki. Oleh *Hugo de Groot* dari Belanda, *Mare Liberium*.
+        - ***Res Nullius***: Lautan tidak ada pemiliknya. Lautan dapat dimiliki. Oleh *John Sheldon* dari Inggris, *Mare Clausum* / *The Right and Dominion of The Sea*.
+    - **Batas:**
+        - Laut Teritorial: 12 mil dari garis lurus pantai pada waktu sedang surut.
+        - Zona Ekonomi Eksklusif: 200 mil dari pantai.
+        - Landas Kontinen: Wilayah negara diluar teritorial, 200 mil dari garis pantai.
+        - Zona Bersebelahan: Wilayah yang berjarak 12 mil di luar laut teritorial atau 24 mil dari pantai.
+  - **Darat**
+  - **Ekstrateritorial**: Wilayah suatu negara yang berada di negara lain
+- Penduduk adalah **orang2 yang berdomisili dalam suatu wilayah negara dengan jangka waktu yang lama**
+- Bukan penduduk adalah **orang2 yang berdomisili dalam suatu wilayah negara dengan jangka waktu sementara**
+- *De Facto* adalah **pengakuan berdasarkan pernyataan atau fakta yang ada**
+- *De Jure* adalah **pengakuan secara resmi berdasarkan hukum internasional**
+- Bela negara adalah **sikap/perilaku warga negara yang dijiwai oleh kecintaannya terhadap NKRI dan berdasarkan Pancasila dan UUD 1945 alam upaya mempertahankan kelangsungan hidup bangsa dan negara**.
+- Dasar hukum:
+  - **Pasal 27 ayat (3)** menyatakan bahwa semua warga Negara berhak dan wajib ikut serta dalam upaya pembelaan negara.
+  - **Pasal 30 ayat (1)** menyatakan bahwa tiap-tiap warga Negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.
+- Landasan Bela Negara:
+  - **Idiil**: Pancasila.
+  - **Konstitusional**: UUD (Pasal 30).
+  - **Struktural**: Ketetapan MPR (Tap. MPR Nomor VII/MPR/2000 tentang Peran Tentara Nasional Indonesia dan Peran Kepolisian Negara Indonesia).
+  - **Operasional**: UU No. 3 Tahun 2002.
+- Tujuan bela negara:
+  - **Mempertahankan kelangsungan hidup bangsa dan negara**
+  - **Melestarikan budaya**
+  - **Menjalankan nilai-nilai pancasila dan UUD 1945**
+  - **Berbuat yang terbaik bagi bangsa dan negara.**
+  - **Menjaga identitas dan integritas bangsa/ negara**
+- Fungsi bela negara:
+  - **Mempertahankan Negara dari berbagai ancaman;**
+  - **Menjaga keutuhan wilayah negara;**
+  - **Merupakan kewajiban setiap warga negara.**
+  - **Merupakan panggilan sejarah;**
+- Alasan bela negara:
+  - **Latar belakang sejarah**
+  - **Kedudukan geografis dan geostrategis (posisi) negara**
+  - **Kondisi kependudukan Indonesia**
+  - **Potensi SDA**
+  - **Perkembangan ilmu pengetahuan dan teknologi**
+- Contoh bela negara:
+  - Lingkungan keluarga:
+    - **Setiap anggota keluarga menjaga kerukunan hidup**
+    - **Setiap anggota keluarga menjalankan tugasnya dengan tertib**
+    - **Setiap anggota keluarga berusaha menjaga nama baik keluarga**
+    - **Menerapkan sikap saling menghargai antaranggota keluarga**
+    - **Belajar dengan tekun**
+    - **Disiplin dalam menjalankan tugas-tugas rumah**
+    - **Memelihara dan menggunakan fasilitas di rumah dengan baik**
+  - Lingkungan sekolah:
+    - **Menyelesaikan tugas dengan baik**
+    - **Hidup rukun sesama warga sekolah**
+    - **Menjalin kerja sama antar siswa tanpa membeda-bedakan**
+    - **Menaati tata tertib sekolah**
+    - **Menghormati guru-guru**
+    - **Menghargai perbedaan di lingkungan sekolah**
+    - **Membantu teman yang sedang kesulitan**
+    - **Mengerjakan PR yang berikan oleh guru**
+    - **Membiasakan sikap disiplin**
+    - **Menjaga nama baik sekolah**
+  - Lingkungan masyarakat:
+    - **Tidak membuat keonaran di masyarakat**
+    - **Ikut bergotong royong di masyarakat**
+    - **Ikut menjaga keamanan lingkungan**
+    - **Menjalin hubungan yang baik antaranggota masyarakat**
+    - **Tidak membuang sampah sembarangan**
+    - **Aktif dalam kegiatan masyarakat**
+    - **Melaksanakan ronda dengan baik**
+    - **Menaati norma yang berlaku di masyarakat**
+    - **Menghindari kesenjangan sosial yang ada di masyarakat**
+    - **Menolong tetangga yang sedang membutuhkan bantuan**
+    - **Menghargai perbedaan yang ada dalam lingkungan masyarakat**
+  - Lingkungan berbangsa dan bernegara:
+    - **Tidak main hakim sendiri**
+    - **Mempertahankan kelangsungan hidup bangsa dan negara**
+    - **Rela berkorban untuk bangsa dan negara**
+    - **Menjaga kelestarian tanah air Indonesia**
+    - **Mempertahankan dan mengamalkan Pancasila dan UUD 1945**
+    - **Mematuhi peraturan perundang-undangan yang berlaku**
+    - **Mencegah sikap radikalisme**
+    - **Merawat fasilitas umum**
+    - **Menaati hukum yang berlaku**
+    - **Menjaga nama TNI atau POLRI**
+    - **Mengharumkan nama bangsa**
+- Badan-badan peradilan:
+  - **Makamah Agung (MA)**: **Lembaga pengadilan tertinggi; bebas dari campur tangan pemerintah dan pihak lainnya**.
+  - **Makamah Konstitusi (MK)**: **Menguji Undang-Undang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD 1945)**.
+  - **Komisi Yudisial (KY)**: **Lembaga peradilan di Indonesia pada masa penyimpangan terhadap konstitusi yang memiliki sifat mandiri**.
+  - **Pengadilan Tinggi**: **Lembaga peradilan yang mempunyai posisi di ibu kota provinsi**.
+  - **Pengadilan Negeri**: **Pihak yang memeriksa, memutuskan perkara pidana di tingkat pertama**.
+  - **Peradilan Agama**
+  - **Peradilan Militer**
+- Hukum di Indonesia merupakan campuran dari sistem **hukum Eropa, hukum agama, dan hukum adat**.
+- Hukum di Indonesia:
+  - Hukum perdata Indonesia: Hukum Privat/Sipil, mengatur hak dan kewajiban yang dimiliki pada subyek hukum dan hubungan antara subyek hukum (kedewasaan seseorang, perkawinan, perceraian, kematian, pewarisan, harta benda, kegiatan usaha dan tindakan-tindakan yang bersifat perdata lainnya).
+  - Hukum pidana Indonesia: Bagian dari hukum publik, terbagi menjadi dua bagian yaitu hukum pidana materiil (mengatur tentang penentuan tindak pidana, pelaku tindak pidana, dan pidana (sanksi)) dan hukum pidana formil (mengatur kewenangan Negara (melalui aparat penegak hukum) melaksanakan haknya untuk menjatuhkan pidana).
+  - Hukum tata negara: Mengatur tentang negara, yaitu antara lain dasar pendirian, struktur kelembagaan, pembentukan lembaga-lembaga negara, hubungan hukum (hak dan kewajiban) antar lembaga negara, wilayah dan warga negara.
+- Demokrasi Langsung: Memberikan kesempatan kepada seluruh warga negaranya untuk pengambilan keputusan dalam  menentukan arah kebijakan umum dari negara atau undang-undang. Demokrasi langsung adalah demokrasi yang mempunyai hak mutlak kepada rakyatnya untuk memberikan aspirasinya.
+- Demokrasi Tidak Langsung: Sistem demokrasi yang dijalankan menggunakan sistem perwakilan yang tidak mengikutsertakan rakyat secara langsung dalam mengambil keputusan atau menentukan kebijakan negara.
+- Hubungan internasional merupakan **sebuah interaksi manusia antar bangsa baik secara individu maupun kelompok, yang dilakukan baik secara langsung maupun secara tidak langsung dan dapat berupa sebuah persahabatan, persengketaan, permusuhan ataupun peperangan**.
+- Hakikat Norma (Kaidah): **dipandang sebagai rambu-rambu yang digunakan seseorang dalam masyarakat, sebagai aturan agar kehidupan bermasyarakat, berbangsa dan bernegara menjadi tertib dan harmonis.**
+- Norma atau kaidah adalah **ketentuan yang mengatur tata kehidupan atau tata pergaulan antarmanusia bersifat mengikat guna menciptakan ketertiban, ketentraman, keteraturan, keharmonisan, serta keamanan dalam kehidupan bermasyarakat, berbangsa dan bernegara**.
+- Jenis Norma:
+  1. **Agama** merupakan sekumpulan kaidah atau peraturan hidup yang sumbernya dari wahyu Ilahi. Contoh: **Jangan Membunuh, Jangan Berzinah, Jangan Mencuri**.
+  2. **Kesusilaan** adalah peraturan hidup yang dianggap sebagai suara hati sanubari manusia (insan kamil). Norma ini merupakan norma yang dijadikan pedoman bersikap dan berperilaku. Contoh: **Berlaku Jujur**
+  3. **Kesopanan/adat** adalah peraturan hidup yang bersumber dari tata pergaulan masyarakat tentang etika atau sopan santun, dan tata krama dalam masyarakat. Contoh: **Menyapa jika bertemu,menghormati ortu**.
+  4. **Hukum** adalah norma/aturan-aturan yang bersumber dari pemerintah atau negara. Contoh: **Hukum Pajak/Lalu Lintas**.
+- Globalisasi adalah **proses integrasi internasional yang terjadi karena pertukaran pandangan dunia, produk pemikiran, dan aspek kebudayaan lainnya.**
+- Globalisasi berasal dari kata ***globe* yang berarti bola dunia.** 
+- Globalisasi dapat diartikan sebagai **Tindakan yang mendunia.**
+- Globalisasi terjadi akibat **perkembangan kebutuhan dan kemajuan ilmu pengetahuan dan teknologi (IPTEK)**.
+- Globalisasi adalah **konsekuensi dari kemajuan yang diciptakan oleh manusia itu sendiri.**
+- Indonesia menganut politik luar negeri **Bebas Aktif**. Artinya **tidak memihak kepada salah satu blok atau persekutuan bangsa (Bebas) dan Berusaha untuk ikut secara aktif dalam memelihara perdamaian dan meredakan ketegangan internasional (Aktif)**.
+- Definisi Globalisasi oleh Lodge: **Sebuah proses yang dikuasai oleh aliran informasi, perdagangan, dan manusia yang mengglobal yang dipercepat oleh perkembangan teknologi.**
+- Kennedy dan Cohen menyebutkan bahwa **Transformasi yang terjadi saat ini telah membawa kita pada *globalisme***
+- Globalisme adalah **sebuah kesadaran dan pemahaman baru bahwa dunia adalah satu.**
+- Bentuk-bentuk Globalisasi
+  - Bidang Ekonomi:
+    - **Munculnya perusahaan multinasional yang memaksimalkan laba dengan mencari lokasi produksi yang paling efisien atau murah.**
+  - Bidang Budaya:
+    - **Munculnya berbagai peralatan teknologi (TV, Radio, Internet).**
+    - **Meningkatnya Mobilitas.**
+    - **Terjadi difusi dan asimilasi. Nilai2 dan Norma2 budaya dapat membaur dengan mudah.**
+- Dampak Globalisasi dapat dilihat dalam aspek: 
+  - **Gaya hidup: Meningkatnya mobilitas barang/produk dari satu tempat ke tempat lain**.
+  - **Makanan: Banyak Restoran asing yang buka di Indonesia**.
+  - **Pakaian: Gaya/Desain busana dipengaruhi negara lain**.
+  - **Komunikasi: Orang dapat dengan mudah berkomunikasi**.
+  - **Transportasi: Dapat pergi jauh dengan mudah**.
+  - **Nilai-nilai: Interaksi antar budaya dapat dengan mudah terjadi**.
+- Dampak Globalisasi di bidang
+  - Politik (Luas):
+    - **Masuk dan tersebarnya nilai2 demokrasi dan kesadaran politik**
+    - **Transparansi, akuntabilitas, dan profesionalisme mendapat sorotan dari masyarakat**
+  - Politik (Positif):
+    - **Masyarakat dapat menggunakan hak politiknya dengan bebas**
+    - **HAM semakin diakui**
+  - Politik (Negatif):
+    - **Semangan musyawarah semakin ditinggalkan**
+    - **Masyarakat lebih mementingkan kepentingan kelompok daripada umum**
+  - Ekonomi (Luas):
+    - **Sektor2 ekonomi yang diberi subsidi semakin berkurang**
+    - **Kompetisi produk dan harga semakin tinggi**
+  - Ekonomi (Positif):
+    - **Taraf hidup dan pendapatan per kapita meningkat**
+    - **Tersedia lapangan pekerjaan**
+    - **Kualitas SDM meningkat**
+    - **Jumlah produksi barang industri memingkat**
+  - Ekonomi (Negatif):
+    - **Munculnya kelas2 ekonomi (buruh, majikan)**
+  - Sosial Budaya (Luas):
+    - **Masuknya nilai2 asing secara mudah**
+    - **Semakin memudarnya apresiasi terhadap budaya lokal**
+    - **Semakin lunturnya semangat gotong royong, solidaritas, kepedulian**
+  - Sosial Budaya (Positif):
+    - **Banyak siswa menggunakan komputer untuk belakjar**
+    - **Banyak bangunan yang bergaya Eropa**
+    - **Pengobatan beralih dari cara tradisional ke cara modern**
+  - Sosial Budaya (Negatif):
+    - **Pembelajaran yang berbasis kesadaran terhadap keseimbangan lingkungan hidup semakin ditinggalkan**
+    - **Semakin sedikit yang melestarikan musik tradisional**
+  - Hukum, Pertahanan, dan Keamanan (Luas):
+    - **Menguatnya regulasi hukum dan pembuatan undang2**
+    - **Menguatnya tuntutan terhadap tugas penegak hukum yang lebih profesional**
+- Arti Penting Globablisasi bagi Indonesia:
+  - Ekonomi: **Membuka jaringan pasar internasional bagi hasil produksi dalam negeri**.
+  - Komunikasi: **Penyampaian informasi secara cepat dari dunia ke ID dan dari ID ke dunia**.
+  - Pembangunan: **Masyarakat dapat menggunakan teknologi modern**.
+  - Politik: **Memungkinkan ID menjadi bagian dari perkembangan politik global**.
+  - Pendidikan: **Menyamaratakan penyebaran ilmu pengetahuan di seluruh ID dengan cepat**.
+- Indonesia terlibat dalam: **ASEAN, PBB, OPEC, APEC, FIFA, dan IBF**
+- Otonomi daerah adalah **hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai peraturan perundang-undangan**. (UU No. 32 tahun 2004)
+- Faktor-faktor yang mempengaruhi otonomi daerah:
+  - **Manusia Pelaksana**: **Semangat kerja, moral, pengetahuan**
+  - **Keuangan**: **Modal**
+  - **Peralatan**: **Teknologi**
+  - **Organisasi dan Manajemen**: **Perencanaan, pelaksanaan, *leadership***
+- Landasan Hukum otonomi daerah:
+  - **UU No. 32 Tahun 2004**: **Pemerintahan Daerah**.
+  - **UU No. 33 Tahun 2004**: **Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintah Daerah**.
+- Bidang yang tidak dicakup:
+  - **Politik luar negeri**
+  - **Pertahanan keamanan**
+  - **Peradilan**
+  - **Moneter dan fiskal**
+  - **Agama**
+- Prinsip otonomi daerah:
+  - **Demokrasi**
+  - **Keadilan**
+  - **Pemerataan**
+  - **Potensi dan Keanekaragaman**
+- Prinsip Pelaksanaan otonomi daerah:
+  - **Seluas-luasnya**: **Daerah dapat mengatur semua bidang kecuali yang tidak dicakup**
+  - **Nyata**: **Daerah memiliki kewenangan dalam menjalankan pemerintahan berdasarkan tugas, wewenang, dan kewajiban yang secara nyata telah ada**
+  - **Bertanggungjawab**: **Harus sesuai dengan maksud dan tujuan dari pemberian otonomi**
+- Perangkat Pelaksana otonomi daerah:
+  - **Kepala Daerah Provinsi/Gubernur**
+  - **Bupati & Wakilnya**
+  - **Unit2 Teknis/Dinas**
+- Partisipasi Masyarakat, tahap:
+  - **Perencanaan**: **Memberikan masukan**
+  - **Pelaksanaan**: **Ikut serta dalam kegiatan**
+  - **Evaluasi**: **Memelihara yang telah dibangun**
+- **>> LIHAT HAFALAN UNTUK HAK DAN KEWAJIBAN OTONOMI DAERAH <<**
+- Sentralisasi adalah **pengaturan kewenangan dari pemerintah daerah kepada pemerintah pusat untuk mengurusi urusan rumah tangganya sendiri berdasarkan prakarsa dan aspirasi dari rakyatnya dalam kerangka negara kesatuan Republik Indonesia**.
+- Asas-asas kewarganegaraan
+  - **Asas Sanguinis** (Law Of The Blood): **Berdasarkan keturunan**.
+  - **Asas Ius Soli** (Law The Soil): **Berdasarkan tempat kelahiran**.
+- Negara yang menganut Asas Sanguinis: **Indonesia, Tiongkok, Belanda, Filipina, Inggris, Jerman**.
+- Negara yang menganut Ius Soli: **Singapura, Meksiko, Pakistan, Amerika Serikat, Kanada**
+- Stelsel kewarganegaraan
+  - **Stelsel Aktif** (Naturalisasi Biasa): **Perpindahan kewarganegaraan atas kehendak pribadi dan harus memenuhi syarat**.
+  - **Stelsel Pasif** (Naturalisasi Istimewa): **Perpindahan warga negara atas permintaan negara yang bersangkutan dan tidak harus memenuhi syarat**.
+- Hak kewarganegaraan:
+  - **Hak Opsi**: **Hak memilih bagi tiap orang, untuk menjadi warga negara apa saja**
+  - **Hak Repudiasi**: **Hak menolak kewarganegaraan yang diberikan karena keistimewaan atau otomatis**.
+- Status kewarganegaraan
+  - **Apatride**: **Tidak memiliki kewarganegaraan**
+  - **Tunggal**: **Hanya memiliki 1 kewarganegaraan**
+  - **Bipatriede**: **Memiliki kewarganegaraan ganda**
+- Syarat jadi WNI:
+  - **Harus bisa bahasa Nasional**
+  - **Tinggal di Indonesia minimal 5 tahun berturut2 atau 10 tahun**
+  - **Mengakui Pancasila**
+  - **Membayar Pajak**
