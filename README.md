@@ -2,11 +2,10 @@
 Materials for Beethoven Class grade IX class B  
 
 # Notices
-**13 December 2019**
-To retain membership, each member must commit atleast 2 full (100%) materials before 20th December 2019. Failing to fulfil this requirement may result in a temporary access removal.
+**7th of April 2020**
+We are nearing the end of Betthoven Class IX. This means that this repository will become public soon. Please keep everything neat and tidy. Thank you.
 
 # Notes
-- **Prepare for Ujian Nasional**.
 - Most naterials will be written in Indonesian.
 - The contents here will help only if you really wanted to study them.
 - Add `[?]` or `!!` at the end or start of a statement if the statement might not be true or requires citation.
